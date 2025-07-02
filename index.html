@@ -79,6 +79,9 @@
       if (category !== 'all') {
         filtered = allPlaylists.filter(item => item.snippet.title.toLowerCase().includes(category));
       }
+      if (dataTablePlaylist) {
+        dataTablePlaylist.clear().destroy();
+      }
       renderPlaylistTable(filtered);
     }
 
@@ -112,7 +115,6 @@
       });
 
       $('#playlistTable tbody').html(rows.join(''));
-      if (dataTablePlaylist) dataTablePlaylist.clear().destroy();
       dataTablePlaylist = $('#playlistTable').DataTable();
     }
 
@@ -137,7 +139,6 @@
       });
 
       $('#videoTable tbody').html(rows.join(''));
-      if (dataTableVideo) dataTableVideo.clear().destroy();
       dataTableVideo = $('#videoTable').DataTable();
     }
 
