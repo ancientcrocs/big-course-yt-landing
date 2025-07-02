@@ -24,7 +24,7 @@
         <button class="btn btn-outline-secondary" onclick="filterCategory('matematika')">Matematika</button>
         <button class="btn btn-outline-success" onclick="filterCategory('kimia')">Kimia</button>
         <button class="btn btn-outline-danger" onclick="filterCategory('fisika')">Fisika</button>
-        <button class="btn btn-outline-dark" onclick="showAllVideos()">Seluruh Video</button>
+        <button class="btn btn-outline-dark" id="toggleVideoBtn" onclick="toggleVideo()">Tampilkan Seluruh Video</button>
       </div>
     </div>
 
@@ -82,8 +82,13 @@
       renderPlaylistTable(filtered);
     }
 
-    function showAllVideos() {
-      document.getElementById('videoSection').style.display = 'block';
+    function toggleVideo() {
+      const videoSection = document.getElementById('videoSection');
+      const toggleBtn = document.getElementById('toggleVideoBtn');
+      const isVisible = videoSection.style.display === 'block';
+
+      videoSection.style.display = isVisible ? 'none' : 'block';
+      toggleBtn.textContent = isVisible ? 'Tampilkan Seluruh Video' : 'Sembunyikan Video';
     }
 
     function renderPlaylistTable(items) {
