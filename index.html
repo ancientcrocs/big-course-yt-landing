@@ -16,19 +16,19 @@
 
   <div class="container">
     <div class="text-center mb-4">
-      <h1 class="display-5">Daftar Playlist Channel YouTube Big Course</h1>
-      <p class="lead">Temukan semua playlist edukatif dari channel kami</p>
+      <h1 class="display-5">Konten Channel YouTube Big Course</h1>
+      <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
 
       <div class="btn-group mb-4" role="group">
-        <button class="btn btn-outline-primary" onclick="filterCategory('all')">Seluruh Playlist</button>
-        <button class="btn btn-outline-secondary" onclick="filterCategory('matematika')">Matematika</button>
-        <button class="btn btn-outline-success" onclick="filterCategory('kimia')">Kimia</button>
-        <button class="btn btn-outline-danger" onclick="filterCategory('fisika')">Fisika</button>
-        <button class="btn btn-outline-dark" id="toggleVideoBtn" onclick="toggleVideo()">Tampilkan Seluruh Video</button>
+        <button class="btn btn-outline-dark" onclick="showTable('video')">Seluruh Video</button>
+        <button class="btn btn-outline-primary" onclick="showTable('playlist'); filterCategory('all')">Seluruh Playlist</button>
+        <button class="btn btn-outline-secondary" onclick="showTable('playlist'); filterCategory('matematika')">Matematika</button>
+        <button class="btn btn-outline-success" onclick="showTable('playlist'); filterCategory('kimia')">Kimia</button>
+        <button class="btn btn-outline-warning" onclick="showTable('playlist'); filterCategory('fisika')">Fisika</button>
       </div>
     </div>
 
-    <div class="table-responsive mb-5">
+    <div class="table-responsive mb-5" id="playlistSection">
       <table id="playlistTable" class="table table-striped table-bordered">
         <thead class="table-dark">
           <tr>
@@ -43,22 +43,19 @@
       </table>
     </div>
 
-    <div class="mb-4" id="videoSection" style="display: none;">
-      <h2 class="h4">Daftar Semua Video Publik</h2>
-      <div class="table-responsive">
-        <table id="videoTable" class="table table-bordered table-hover">
-          <thead class="table-light">
-            <tr>
-              <th>Thumbnail</th>
-              <th>Judul Video</th>
-              <th>Deskripsi</th>
-              <th>Tanggal Publikasi</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
+    <div class="table-responsive mb-5 d-none" id="videoSection">
+      <table id="videoTable" class="table table-bordered table-hover">
+        <thead class="table-light">
+          <tr>
+            <th>Thumbnail</th>
+            <th>Judul Video</th>
+            <th>Deskripsi</th>
+            <th>Tanggal Publikasi</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
     </div>
   </div>
 
