@@ -71,24 +71,22 @@
     let allPlaylists = [];
     let dataTablePlaylist, dataTableVideo;
 
+    function showTable(type) {
+      document.getElementById('playlistSection').classList.add('d-none');
+      document.getElementById('videoSection').classList.add('d-none');
+      if (type === 'playlist') {
+        document.getElementById('playlistSection').classList.remove('d-none');
+      } else {
+        document.getElementById('videoSection').classList.remove('d-none');
+      }
+    }
+
     function filterCategory(category) {
       let filtered = allPlaylists;
       if (category !== 'all') {
         filtered = allPlaylists.filter(item => item.snippet.title.toLowerCase().includes(category));
       }
-      if (dataTablePlaylist) {
-        dataTablePlaylist.clear().destroy();
-      }
       renderPlaylistTable(filtered);
-    }
-
-    function toggleVideo() {
-      const videoSection = document.getElementById('videoSection');
-      const toggleBtn = document.getElementById('toggleVideoBtn');
-      const isVisible = videoSection.style.display === 'block';
-
-      videoSection.style.display = isVisible ? 'none' : 'block';
-      toggleBtn.textContent = isVisible ? 'Tampilkan Seluruh Video' : 'Sembunyikan Video';
     }
 
     function renderPlaylistTable(items) {
@@ -111,6 +109,7 @@
         `;
       });
 
+      if (dataTablePlaylist) dataTablePlaylist.clear().destroy();
       $('#playlistTable tbody').html(rows.join(''));
       dataTablePlaylist = $('#playlistTable').DataTable();
     }
@@ -135,6 +134,7 @@
         `;
       });
 
+      if (dataTableVideo) dataTableVideo.clear().destroy();
       $('#videoTable tbody').html(rows.join(''));
       dataTableVideo = $('#videoTable').DataTable();
     }
