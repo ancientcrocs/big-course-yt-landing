@@ -71,7 +71,7 @@
     let dataTable, videoTable, allItems = [];
 
     async function loadPlaylists() {
-      const response = await fetch('./cache/playlist.json');
+      const response = await fetch('./cache/playlists.json');
       const data = await response.json();
       allItems = data.items;
       renderPlaylistTable(allItems);

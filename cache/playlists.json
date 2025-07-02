@@ -1,0 +1,4880 @@
+[
+  {
+    "kind": "youtube#playlist",
+    "etag": "xjhRd4riAC6RLcp7pF2cLLfawWs",
+    "id": "PLmMOM47Txz7syOpbHdLgVsjIN5B1rj_3J",
+    "snippet": {
+      "publishedAt": "2025-01-11T14:55:21.153493Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "UTBK Penalaran Matematika",
+      "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Penalaran Matematika",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rtNNe87hbt8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rtNNe87hbt8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rtNNe87hbt8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rtNNe87hbt8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rtNNe87hbt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "UTBK Penalaran Matematika",
+        "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Penalaran Matematika"
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "NNlAPDnuYv0oED1r8o8IcDeblKE",
+    "id": "PLmMOM47Txz7s7QrnnF1LCDrqSbTrpHWJq",
+    "snippet": {
+      "publishedAt": "2024-12-07T07:43:32.416549Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "UTBK / SNBT Pengetahuan Kuantitatif",
+      "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Pengetahuan Kuantitatif",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "UTBK / SNBT Pengetahuan Kuantitatif",
+        "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Pengetahuan Kuantitatif"
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "N0Eg3M22icJRiG3XZQA8BzQRpPM",
+    "id": "PLmMOM47Txz7uk_95E-_KtaaQSFwQa_0Gd",
+    "snippet": {
+      "publishedAt": "2024-08-11T10:16:07.621265Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika Keuangan",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oS5MQKTMtN8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oS5MQKTMtN8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oS5MQKTMtN8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oS5MQKTMtN8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oS5MQKTMtN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Matematika Keuangan",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "mzD91SNPRgpSIrru7vZhw8RrcoE",
+    "id": "PLmMOM47Txz7uRYdc-vDsaE3kGLDzeHRUq",
+    "snippet": {
+      "publishedAt": "2023-10-08T05:26:22.762454Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Tata Nama Senyawa Kompleks",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RHVAebXrrnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RHVAebXrrnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RHVAebXrrnM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RHVAebXrrnM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RHVAebXrrnM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Tata Nama Senyawa Kompleks",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "eKmpC_fHdjmp0pFSLrq4d93YfGE",
+    "id": "PLmMOM47Txz7sevkcygxZDT__yACds_iml",
+    "snippet": {
+      "publishedAt": "2023-09-21T09:44:25.588117Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Turunan Parameter Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qWKllyKS2dU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qWKllyKS2dU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qWKllyKS2dU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qWKllyKS2dU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qWKllyKS2dU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Turunan Parameter Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "VPDq0Zm5spFq9kxYCQ-auWK8WLk",
+    "id": "PLmMOM47Txz7vAciUaA_ivmqcZJgL6y3Jg",
+    "snippet": {
+      "publishedAt": "2023-09-17T02:22:27.151635Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika X - Integral Tertentu / Batas",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Matematika X - Integral Tertentu / Batas",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "CELcVQxecLmRfGJZncaCEtg0Puc",
+    "id": "PLmMOM47Txz7tdwlkfi8RCKEZ1drlUZICa",
+    "snippet": {
+      "publishedAt": "2023-08-13T10:14:20.466194Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Bilangan Kompleks Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Bilangan Kompleks Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "wDLLKE2bkl_6Jgwae8gfY7Rbolg",
+    "id": "PLmMOM47Txz7vA5xO1KPNLAaJUcwdjfUN-",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:58:04.916512Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "FISIKA Elastisitas Pegas",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eSM4u5h5RnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eSM4u5h5RnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eSM4u5h5RnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eSM4u5h5RnE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eSM4u5h5RnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "FISIKA Elastisitas Pegas",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "uKYO8JIgkcIjGzTFKewBW-TvU4s",
+    "id": "PLmMOM47Txz7uedldjg1ICCuxG5my3VlXT",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:57:34.255497Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "FISIKA - Fluida Statis dan Dinamis",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "FISIKA - Fluida Statis dan Dinamis",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "hpfZ46TBMUN8_cxOthCwHN71ePE",
+    "id": "PLmMOM47Txz7u6BmZSkrfFYkRUoJzuPPxh",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:57:00.392742Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "FISIKA Teori Kinetik Gas",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "FISIKA Teori Kinetik Gas",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "8TdZCO5tvmzDBJ1XPObm__K9ak8",
+    "id": "PLmMOM47Txz7uVc9aKh1hBijTtdyrP4cwA",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:56:26.367356Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gelombang Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gelombang Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "F0CFmHPCy-HeHDWrmEHiGvtQfhU",
+    "id": "PLmMOM47Txz7v0BL22FhgU7BeU5pAAediL",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:55:39.040786Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Optika Geometri Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hbcW8K40DzA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hbcW8K40DzA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hbcW8K40DzA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hbcW8K40DzA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hbcW8K40DzA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Optika Geometri Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "MgbsYWFYnX5Vn2_U4U_hvIRCUk4",
+    "id": "PLmMOM47Txz7vS64PMnvuwvexs2R8UupES",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:55:01.442196Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "FISIKA - ALAT OPTIK",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xyAF6g5PjvY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xyAF6g5PjvY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xyAF6g5PjvY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xyAF6g5PjvY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xyAF6g5PjvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "FISIKA - ALAT OPTIK",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "P5awYbcySGtYBfQgolUaVNtRH70",
+    "id": "PLmMOM47Txz7vb-Vqq5Ue9ebI8jpWJySDk",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:54:28.911465Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "FISIKA Gelombang Cahaya / Optika Fisis",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bwioFhP0uOM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bwioFhP0uOM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bwioFhP0uOM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bwioFhP0uOM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bwioFhP0uOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "FISIKA Gelombang Cahaya / Optika Fisis",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "TkN5NnscHLFQGM68WN2_bLBASGU",
+    "id": "PLmMOM47Txz7tZxbUL3t5kpfHAsIvTAuP0",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:50:14.428343Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Thermodinamika / Termodinamika Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yY1AQ_JKfGg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yY1AQ_JKfGg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yY1AQ_JKfGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yY1AQ_JKfGg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yY1AQ_JKfGg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Thermodinamika / Termodinamika Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "D7Um9Ao0N5HVi9dNUN4WTv_cMxI",
+    "id": "PLmMOM47Txz7uwTq35oWNmHouGmc3U4yAV",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:48:38.509142Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA Fungsi Eksponen",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tSzSj7JO8tk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tSzSj7JO8tk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tSzSj7JO8tk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tSzSj7JO8tk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA Fungsi Eksponen",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "539gVnJuc8B-o3k_apw7_0WiAUo",
+    "id": "PLmMOM47Txz7sT67mZgRpLW7BoBhxIEpTB",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:44:52.235629Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Latihan Akhir Semester Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Latihan Akhir Semester Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "iCmKps5PQwRNcOT6i3KsSXpPEPw",
+    "id": "PLmMOM47Txz7v4dSohQDIhHMLzXSDXVUJN",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:42:35.841567Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Trigonometri Lanjutan Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y4J8nEpXtTE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y4J8nEpXtTE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y4J8nEpXtTE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Trigonometri Lanjutan Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "dd20V9xSFgdc7-2BftVHKAqiUfM",
+    "id": "PLmMOM47Txz7tRRmDG1NrdP1cch4T1uwgN",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:40:49.232799Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA - NOTASI SIGMA",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA - NOTASI SIGMA",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "44IubU4kGG1JYFIUR56dodnT3dM",
+    "id": "PLmMOM47Txz7u26q2PMOoNj7P7A127Cijl",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:39:28.607431Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Barisan dan Deret Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Barisan dan Deret Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "rzR9zlBKiZ8TIRwMQV4GurJ6JTo",
+    "id": "PLmMOM47Txz7ur7sNWRli6IchTfjvyuo5X",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:38:52.626722Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Limit Fungsi Aljabar Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hw6t7xBzy6o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hw6t7xBzy6o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hw6t7xBzy6o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hw6t7xBzy6o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hw6t7xBzy6o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Limit Fungsi Aljabar Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "-F_MWGEWop2KAuvp9OEI2pfCN6U",
+    "id": "PLmMOM47Txz7u7ATjrivskX-uufCOwTA6b",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:38:19.844535Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA Suku Banyak / Polinomial",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA Suku Banyak / Polinomial",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "_ZUPq3rZb_vfLOX3TrSnf5_uzCI",
+    "id": "PLmMOM47Txz7tegvfzNiPYqlPyXty7G0RN",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:37:32.35687Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA Limit Kontinu Diskontinu",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA Limit Kontinu Diskontinu",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "vPAdl7oudF_xfWktUgKRB30kd0Y",
+    "id": "PLmMOM47Txz7uYUSSMh1-DadzVjsqRG_Gb",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:36:43.233015Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA PROGRAM LINEAR",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HAVAEMZSpts/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HAVAEMZSpts/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HAVAEMZSpts/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HAVAEMZSpts/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HAVAEMZSpts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA PROGRAM LINEAR",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "sWm676M62e2pAgnOId1yIPgNqts",
+    "id": "PLmMOM47Txz7tAXV3JjrKRWdxoCx5tXUHt",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:36:08.292178Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matriks Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-2pSwVmHySY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-2pSwVmHySY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-2pSwVmHySY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-2pSwVmHySY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-2pSwVmHySY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Matriks Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 8
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Y8lyyNSnBaRtYgFAFBVRhifYwh0",
+    "id": "PLmMOM47Txz7uDqGPiQOPtDVQLbtjSvKCX",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:35:36.453773Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Transformasi Geometri Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Transformasi Geometri Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "ST2RaKt3_dM0NyahF089MRx5cy0",
+    "id": "PLmMOM47Txz7vCYgDApc6ho6xuM1gFimeu",
+    "snippet": {
+      "publishedAt": "2023-07-20T12:34:28.480994Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA Persamaan Pertidaksamaan Trigonometri",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yWq4nrvTl5o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yWq4nrvTl5o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yWq4nrvTl5o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yWq4nrvTl5o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yWq4nrvTl5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA Persamaan Pertidaksamaan Trigonometri",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "bGMJknehJIS-wXdxim8MMPQ58B0",
+    "id": "PLmMOM47Txz7t24qB8ndIbwMz7JjyiB56d",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:16:31.293409Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Dinamika Rotasi Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Dinamika Rotasi Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Ygs8O_KKiS-LZDGL-OOp7Vh2Mtc",
+    "id": "PLmMOM47Txz7v0ea2L98GwmOboVUGrTqNL",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:15:59.091863Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kesetimbangan Benda Tegar Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_bpKIZ7gEzo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_bpKIZ7gEzo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_bpKIZ7gEzo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_bpKIZ7gEzo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_bpKIZ7gEzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kesetimbangan Benda Tegar Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "K6VEJEU4OkxAFuyFnHEqb2B2VWc",
+    "id": "PLmMOM47Txz7vLcdTMIC6kbcfWLBa-J1kr",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:15:17.236103Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Suhu dan Kalor Fisika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Suhu dan Kalor Fisika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "g6gucejiTqTvk4QihdTVSq1erMw",
+    "id": "PLmMOM47Txz7uKYWbA7ghX1OCykjly-rLG",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:13:10.597751Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Redoks Lanjuta Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T3XXXUacwbY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T3XXXUacwbY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T3XXXUacwbY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T3XXXUacwbY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Redoks Lanjuta Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "gkoXUqfqk2o1hSsF5k2QchV5pNk",
+    "id": "PLmMOM47Txz7sa1e_oS30vJdRnQoeXgTDT",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:12:12.794699Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sifat Koligatif Larutan Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v3qWqIfppA8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v3qWqIfppA8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v3qWqIfppA8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v3qWqIfppA8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v3qWqIfppA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sifat Koligatif Larutan Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "g7Esre6-NJxBLUola6GZ1T2NOK8",
+    "id": "PLmMOM47Txz7uiM5Mq74g6Qp9JFI6rVZb8",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:09:42.858889Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Polimer Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4lMUpkltJ2I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4lMUpkltJ2I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4lMUpkltJ2I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4lMUpkltJ2I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4lMUpkltJ2I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Polimer Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "9VBqEo3hySTpASalE0ZUMNQrfmA",
+    "id": "PLmMOM47Txz7tSvYypx1e1Lq8aGkbMvtaI",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:09:12.442675Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Senyawa Benzena Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Senyawa Benzena Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "HX65AA74eYrl72BhjjB3my9A9Rk",
+    "id": "PLmMOM47Txz7uwnwrcwNPbZ54D4A_mdDgZ",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:08:37.702561Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Senyawa Karbon / Kimia Organik Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dq98hsRCHuo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dq98hsRCHuo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dq98hsRCHuo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dq98hsRCHuo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dq98hsRCHuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Senyawa Karbon / Kimia Organik Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "m-66JN1zoPeZuiRjVjYyO7Azrlc",
+    "id": "PLmMOM47Txz7v6-LaiuZSuviHZ8P6dO3Vw",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:06:23.026914Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sel Elektrolisis Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sel Elektrolisis Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "wmJB5eyyFNxuW1loI_AJYjV59bk",
+    "id": "PLmMOM47Txz7tnS1cHOtQfWXLT4T6gRPuM",
+    "snippet": {
+      "publishedAt": "2023-07-20T07:05:35.806295Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sel Volta Kimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sel Volta Kimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "4c2t5ES2rwwJZPVnXR8N6zXpc0c",
+    "id": "PLmMOM47Txz7u3-T6BtUErcJ0yUGmdfzlL",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:23:41.267898Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Integral Luas Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Integral Luas Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "YjCDUTvsNbaXMmXjIHivE9Dt_UY",
+    "id": "PLmMOM47Txz7uPs1eLLompIuD5EPdmVVXm",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:19:55.411635Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Dimensi Tiga Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Dimensi Tiga Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 8
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "7JENAFCQ5MitsmFifFs_d69IB6k",
+    "id": "PLmMOM47Txz7vtPV5FMq0zlDXQnMEJhIEU",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:19:00.276434Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Distribusi Normal Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Distribusi Normal Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "17jPgPV2n8rjkxCOWAGNnl13Y94",
+    "id": "PLmMOM47Txz7u2Cp80neyhrfryfFzhGCZz",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:18:06.725932Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Integral Volume Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OXPJB2ncbZM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OXPJB2ncbZM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OXPJB2ncbZM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OXPJB2ncbZM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OXPJB2ncbZM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Integral Volume Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "KXHP5aOLlKVmdKfNQ_GkJQmHF8w",
+    "id": "PLmMOM47Txz7vu7cfpy16SN2R2nQ30_YGT",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:17:33.715068Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Integral Trigonometri Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c84TVrZ9kBw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c84TVrZ9kBw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c84TVrZ9kBw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c84TVrZ9kBw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c84TVrZ9kBw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Integral Trigonometri Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "d_fwdcS7_tO8hS_sgiglB0qT0XM",
+    "id": "PLmMOM47Txz7uKJbhMSTAaMn-tij45wyJ7",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:14:55.008039Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Turunan Trigonometri Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Turunan Trigonometri Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "kl05yetWJb_xlx2giCVSp6izotg",
+    "id": "PLmMOM47Txz7tXSwf3NaHxAvwdqIbdnCB_",
+    "snippet": {
+      "publishedAt": "2023-07-20T05:01:18.008846Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Turunan Fungsi ln (Logaritma Natural), e, Eksponen dan Fungsi Logaritma Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qdx5U6xSsi4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qdx5U6xSsi4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qdx5U6xSsi4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qdx5U6xSsi4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qdx5U6xSsi4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Turunan Fungsi ln (Logaritma Natural), e, Eksponen dan Fungsi Logaritma Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Pu6In1SFSU_yOMtWf4usvDJOTRU",
+    "id": "PLmMOM47Txz7s3hh4ZRjP0GJjVSHfPHkQR",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:56:23.729674Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Hidrolisis Garam Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Hidrolisis Garam Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "RLMkgCGT853l2VJMNpEJ14D4Uyc",
+    "id": "PLmMOM47Txz7vhGUA022Uc1PVu8m8MLyZC",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:55:38.907703Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kelarutan dan KSP Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UupR3S7jqWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UupR3S7jqWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UupR3S7jqWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UupR3S7jqWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UupR3S7jqWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kelarutan dan KSP Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "z5PR2Iq5kDOIdstG3zP_Sr7zd9E",
+    "id": "PLmMOM47Txz7tfaM073VCFzWmFM8Y1iImx",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:55:06.878017Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kesetimbangan Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4jYDfRabi3M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4jYDfRabi3M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4jYDfRabi3M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4jYDfRabi3M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4jYDfRabi3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kesetimbangan Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "sJszPdXbQLujvg8V7vgVc8HLsXE",
+    "id": "PLmMOM47Txz7sxqEhCQ2IJ_IDdlK800lRz",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:54:33.978362Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Laju Reaksi Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gAvNpdRA9lY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gAvNpdRA9lY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gAvNpdRA9lY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gAvNpdRA9lY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gAvNpdRA9lY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Laju Reaksi Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "s_orpoAg629OV3lmNuWOZWNolLE",
+    "id": "PLmMOM47Txz7vqsa6uRkxy00mF_veBSJom",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:53:36.601583Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Reaksi Penggaraman Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Reaksi Penggaraman Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "TbMMHiBLLIF_HQXfezJNQxgfnxY",
+    "id": "PLmMOM47Txz7tJ6kDJVYzlFAZ2haq3ZlXj",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:52:59.975931Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Larutan Penyangga Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Larutan Penyangga Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "L3DF-Di7KqiA98X1L_EiDL0G0hQ",
+    "id": "PLmMOM47Txz7tQoIi4jCuMxoARUXNaxFFb",
+    "snippet": {
+      "publishedAt": "2023-07-20T04:50:17.109849Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Thermokimia Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Thermokimia Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "nWKkuZxRcAJHXLrMOZInmGGlXt4",
+    "id": "PLmMOM47Txz7tl5vBbY3rPnGV_xXpmhJxd",
+    "snippet": {
+      "publishedAt": "2023-06-27T04:04:38.337567Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Hidrokarbon / Kimia Organik Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Hidrokarbon / Kimia Organik Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 10
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "NjjvLCG9GdTwSnQqEtw5O8FBwms",
+    "id": "PLmMOM47Txz7tEd9RhTDywkXj-jiTcNFLh",
+    "snippet": {
+      "publishedAt": "2023-05-30T03:54:04.101281Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Statistika Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y3nGP68PJMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y3nGP68PJMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y3nGP68PJMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y3nGP68PJMU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y3nGP68PJMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Statistika Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 8
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Qx1ygMy_OXI_x9Lqk1LIXLhEP7k",
+    "id": "PLmMOM47Txz7ux9DRWqrB7eIMAg0x-P5Zj",
+    "snippet": {
+      "publishedAt": "2023-05-22T11:33:50.172955Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Irisan Kerucut Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Irisan Kerucut Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 9
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "HVbjSchHOUqglIEH60H-qLd3N2A",
+    "id": "PLmMOM47Txz7tVT_Nr8Z8C4QY-eGYoHOiF",
+    "snippet": {
+      "publishedAt": "2023-05-06T07:00:18.116634Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Integral Aljabar Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Integral Aljabar Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 14
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "lcIFRW173H_5ES8Rc6_gzlPzaGA",
+    "id": "PLmMOM47Txz7uQJZiPhHxl4CMdQnOxh_2i",
+    "snippet": {
+      "publishedAt": "2023-04-08T10:09:13.490784Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Aplikasi Turunan Aljabar Matematika XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qajoM79KNUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qajoM79KNUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qajoM79KNUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qajoM79KNUo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qajoM79KNUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Aplikasi Turunan Aljabar Matematika XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 9
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "eUo68xMS7npcIz5MyzAXvEDMeco",
+    "id": "PLmMOM47Txz7scMW8SheD7Yt9AOGVrvlNI",
+    "snippet": {
+      "publishedAt": "2023-04-02T09:26:18.935231Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Bunyi Fisika XI",
+      "description": "Fisika kelas XI materi Bunyi",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Bunyi Fisika XI",
+        "description": "Fisika kelas XI materi Bunyi"
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "l0w1F6jFmAvCE7L1nlEjrHf7O0Y",
+    "id": "PLmMOM47Txz7vr2G4Gjt9-u_isuWD-fhjT",
+    "snippet": {
+      "publishedAt": "2023-01-18T04:36:40.890992Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Larutan / Titrasi Asam Basa Kimia XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZCWgXJvmcUs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZCWgXJvmcUs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZCWgXJvmcUs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZCWgXJvmcUs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZCWgXJvmcUs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Larutan / Titrasi Asam Basa Kimia XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 8
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "TWpTIRL8GQ9QmrI-pdgPMiS-J6c",
+    "id": "PLmMOM47Txz7tHvzPssWjEJcBUmfULw3VI",
+    "snippet": {
+      "publishedAt": "2023-01-04T10:02:03.160283Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Peluang Matematika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vgatKi6crwE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vgatKi6crwE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vgatKi6crwE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vgatKi6crwE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vgatKi6crwE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Peluang Matematika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 10
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "mSoqixDrlIDBLpo1w6RbGdgekpQ",
+    "id": "PLmMOM47Txz7vHjqPUOVKWou1rRWLnGoba",
+    "snippet": {
+      "publishedAt": "2023-01-04T09:42:17.563153Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Limit Trigonometri Kelas XI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Limit Trigonometri Kelas XI",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "aFtjEdCYC-7rKXBOT9vAnFroxv8",
+    "id": "PLmMOM47Txz7vKz-k_1aka3mUI4UzvgHjM",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:07:51.268756Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Grafik Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oSfFRzijT-A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oSfFRzijT-A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oSfFRzijT-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oSfFRzijT-A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oSfFRzijT-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Grafik Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "RG_dQ7AO8EMmrGpJ1MO6a0poUBg",
+    "id": "PLmMOM47Txz7s6NLHOlX9uA93HW9NWw4Iy",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:07:13.531114Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Integral Fungsi Penawaran & Permintaan Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aJHZh7dtS7o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aJHZh7dtS7o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aJHZh7dtS7o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aJHZh7dtS7o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Integral Fungsi Penawaran & Permintaan Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "LF0Cc7sQy3NUwY_aTYYINOs0lco",
+    "id": "PLmMOM47Txz7upIwfCJVPKXP0xmQolZ5HF",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:06:30.412519Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Bentuk Akar Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Bentuk Akar Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "ey9-alpcCy-Fhhw4Sq47leZSBxE",
+    "id": "PLmMOM47Txz7u2UvJjaSKxEpIzTMyHxHei",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:04:28.324151Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Eksponen / Pangkat Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Eksponen / Pangkat Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "hUT0mR_bSYrIR_5H7bnI0htIiZ4",
+    "id": "PLmMOM47Txz7sB2SqmKg9L8ngQfLDnMv7Z",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:02:56.981494Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Persamaan Pertidaksamaan Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Persamaan Pertidaksamaan Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "M-FJ3Jz8-W0Jxyil3ciVk4x8Bhk",
+    "id": "PLmMOM47Txz7uU4PUNYAO3ktMbmOrCWcqr",
+    "snippet": {
+      "publishedAt": "2022-11-03T13:01:41.299719Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sistem Persamaan dan Pertidaksamaan Linear Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qIcrsCGqdgg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qIcrsCGqdgg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qIcrsCGqdgg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qIcrsCGqdgg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sistem Persamaan dan Pertidaksamaan Linear Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "bzj20o3E3xpedNcFZ9dYVFnc_iE",
+    "id": "PLmMOM47Txz7sdCRmFe2L0vvk7P1ok405V",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:59:40.717233Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Vektor Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Vektor Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "xKzyaMEkQi9XErZKI7zdNLq7BkI",
+    "id": "PLmMOM47Txz7toBFxd_RFuZI1b_hAPlNZp",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:56:54.195151Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fungsi Komposisi Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cqZg8Guf82g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cqZg8Guf82g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cqZg8Guf82g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cqZg8Guf82g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cqZg8Guf82g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Fungsi Komposisi Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 10
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "urHNZXsi8FrY_Wv6o04OWF4WZb4",
+    "id": "PLmMOM47Txz7t7QbvwPy2QGyF75XEG6o4X",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:55:57.542795Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Persamaan Kuadrat Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ggQwV3WBCjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ggQwV3WBCjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ggQwV3WBCjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ggQwV3WBCjM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ggQwV3WBCjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Persamaan Kuadrat Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "-sJxqymi8i3jIcLPSmWhHn9FGzc",
+    "id": "PLmMOM47Txz7vXJtOAHLBxrJq1pasWEEJ3",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:54:44.691329Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fungsi Kuadrat Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TwI1Tyu4feg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TwI1Tyu4feg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TwI1Tyu4feg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TwI1Tyu4feg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TwI1Tyu4feg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Fungsi Kuadrat Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "K8wU3xbAx-cDvHKwKwVRtZ7RFlg",
+    "id": "PLmMOM47Txz7skbtAhd1q2B5P4mkK7uhlB",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:53:02.472665Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Logika Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZwiBGMaVo8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZwiBGMaVo8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZwiBGMaVo8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZwiBGMaVo8s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZwiBGMaVo8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Logika Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "w8AOP4YJtoe5seMauyLXZ7tDi6w",
+    "id": "PLmMOM47Txz7vFzU35doXUEOLe8Wly58hL",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:51:44.078265Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Persamaan Logaritma Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7aCvHQioNIo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7aCvHQioNIo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7aCvHQioNIo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7aCvHQioNIo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7aCvHQioNIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Persamaan Logaritma Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "7pYqZUW5PPPI-7FKuAq1ukUSn_E",
+    "id": "PLmMOM47Txz7vYKnEI58mD--N5RDuh4ROh",
+    "snippet": {
+      "publishedAt": "2022-11-03T12:47:37.493831Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Trigonometri Dasar Matematika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y1BZBU5YXcM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y1BZBU5YXcM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y1BZBU5YXcM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y1BZBU5YXcM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y1BZBU5YXcM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Trigonometri Dasar Matematika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 14
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "XoHbrPx_Kjwm0I7shLoIMjLFo5U",
+    "id": "PLmMOM47Txz7vwL33ja2iNf9XtI_qW47pF",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:20:09.223332Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kepolaran dan Titik Didih Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YAKHbmxwSrI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YAKHbmxwSrI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YAKHbmxwSrI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YAKHbmxwSrI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YAKHbmxwSrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kepolaran dan Titik Didih Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "87BjIMOVmk4qMbu0gQGWiq61skQ",
+    "id": "PLmMOM47Txz7vVIcrihn9648QONtJO405U",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:19:42.558266Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Larutan Elektrolit dan Non Elektrolit Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Larutan Elektrolit dan Non Elektrolit Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "cdLSZn3zhVE9qeRYYljRWTMVBhE",
+    "id": "PLmMOM47Txz7uodd_CfJoxbQtlSO7RbnaX",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:19:18.513738Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Asam Basa Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xDENjUfcYTI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xDENjUfcYTI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xDENjUfcYTI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xDENjUfcYTI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xDENjUfcYTI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Asam Basa Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "hsyhpTPjTTFaQ9uHRavkkNvw5Sg",
+    "id": "PLmMOM47Txz7tgcMYiiLpre9ti0r7aePQs",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:18:41.799586Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Struktur Atom dan Konfigurasi Elektron Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Struktur Atom dan Konfigurasi Elektron Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "kpLLyReU--NOBAbRvd1plSUBFiQ",
+    "id": "PLmMOM47Txz7uLOLvMJ9b9QhVQoDkXLtOY",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:17:27.175859Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Tata Nama Senyawa Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Tata Nama Senyawa Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "5Jbyt6PBSPUBPJJrhbJZo829BRk",
+    "id": "PLmMOM47Txz7t1w0LFg95P3bRGU1gB2mm2",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:16:54.524391Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Hukum Dasar Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Hukum Dasar Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "49nAfNs_5nYx2NSMbYKusWJAMtw",
+    "id": "PLmMOM47Txz7v0PuNVNJklcuiaQ3yivOw5",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:15:42.116412Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Stoikiometri Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3zHWfZ16fVo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3zHWfZ16fVo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3zHWfZ16fVo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Stoikiometri Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 11
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "m3QKE30a_9EjhyTMZYvfz8E2nJY",
+    "id": "PLmMOM47Txz7svMKOuvNfQ1rM7sKpVoaIE",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:15:02.881679Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sifat Periodik Unsur dalam Tabel sistem Periodik Unsur Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XjfqOGOFYM8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XjfqOGOFYM8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XjfqOGOFYM8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XjfqOGOFYM8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sifat Periodik Unsur dalam Tabel sistem Periodik Unsur Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "MS6soR9VGhTdrvtsQ6XffHtX3n4",
+    "id": "PLmMOM47Txz7tockRyt8WBcaR9A74E2GyB",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:13:51.396414Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Ikatan Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7rodnBMRdCw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7rodnBMRdCw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7rodnBMRdCw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7rodnBMRdCw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Ikatan Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "iiHaWXVs7hvshMd9rXci-w6gATs",
+    "id": "PLmMOM47Txz7v6eJp2kUnGHb3eU2IItkQY",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:13:09.922399Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Redoks Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MMt5uzk-YZA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MMt5uzk-YZA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MMt5uzk-YZA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MMt5uzk-YZA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MMt5uzk-YZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Redoks Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "hF6zn8pZd7fjhyR3uZqvm4b4jE0",
+    "id": "PLmMOM47Txz7s7q-nWSWvhmHn73bMq3tSS",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:12:37.044756Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Masssa Molekul Relatif (Mr) dan Massa Atom Relatif (Ar) Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3C4BMkcKHm0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3C4BMkcKHm0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3C4BMkcKHm0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3C4BMkcKHm0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3C4BMkcKHm0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Masssa Molekul Relatif (Mr) dan Massa Atom Relatif (Ar) Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "F6CMl1JaIgcC4gtIyMpddCISHHI",
+    "id": "PLmMOM47Txz7vpnK8SQnvaNjE0jz5WHURZ",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:07:52.196589Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Besaran, Dimensi dan Angka Penting Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Besaran, Dimensi dan Angka Penting Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "6q4sMHdw-r6NBc91ap3y6xYMGEY",
+    "id": "PLmMOM47Txz7sA9x_REi4OU43t_0fKAJu9",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:07:29.298921Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Usaha dan Energi Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qXSFmDzYWnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qXSFmDzYWnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qXSFmDzYWnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Usaha dan Energi Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "ILE7E2Zd1AfjweVh4T42CMxFx_M",
+    "id": "PLmMOM47Txz7tHSdxyDsrHKldqR1qaWyWJ",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:06:38.762668Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Getaran Harmoni Sederhana Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Getaran Harmoni Sederhana Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "vIOERci4s10pG3NzC0CXfvIw4RQ",
+    "id": "PLmMOM47Txz7uLt5F-0OpWnJcLc0bMTG-X",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:04:49.691173Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gerak Lurus Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gerak Lurus Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "Sn-GggbAiLy4Eqzqy-KrcAnVCUM",
+    "id": "PLmMOM47Txz7vZQq3DDR_9-8HvFobpd-wK",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:04:14.157919Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Momentum Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Momentum Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "fJ4jvAzTDgz1mTMyVvMpjGbSbUk",
+    "id": "PLmMOM47Txz7tLVomeoj8-ArQjkCbw75lB",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:03:20.211602Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Dinamika Gerak Partikel Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Dinamika Gerak Partikel Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "xwKJylgQyKkFzeZnNyrg37fVIqo",
+    "id": "PLmMOM47Txz7sPW0eHb8dVJkeKlF4OCPmU",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:02:42.59903Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kinematika Fisika / Memadu Gerak - Parabola Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kinematika Fisika / Memadu Gerak - Parabola Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "gQi70iiG1FkH7BfTudm0PcbDMps",
+    "id": "PLmMOM47Txz7umSrXGUu-Y65D7-CZC_izD",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:01:49.027621Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gravitasi Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gravitasi Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "7aPf-CfKsq18rp5bZMiSFlM1j7U",
+    "id": "PLmMOM47Txz7tGy2VanAyr1pfz2uwRlRH9",
+    "snippet": {
+      "publishedAt": "2022-11-03T09:01:05.962687Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Vektor Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-vh_vqZkBiQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-vh_vqZkBiQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-vh_vqZkBiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-vh_vqZkBiQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-vh_vqZkBiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Vektor Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "6V5OZqB45hLpFenlpTZ38xrLjM8",
+    "id": "PLmMOM47Txz7uetU16mMur58g2CEF0FRY2",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:53:40.447381Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kapasitor Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b_nJ9Y-bcS4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b_nJ9Y-bcS4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b_nJ9Y-bcS4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b_nJ9Y-bcS4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b_nJ9Y-bcS4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kapasitor Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "30KaqyeqgXoxCCZ984xb7zJiKCE",
+    "id": "PLmMOM47Txz7vktuyR-ohUeM0xHEtTk01K",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:53:20.561104Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Struktur Inti dan Radioaktivitas Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_N2qzKuiYH0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_N2qzKuiYH0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_N2qzKuiYH0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_N2qzKuiYH0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_N2qzKuiYH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Struktur Inti dan Radioaktivitas Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "S6MSs0Gx-LITMxjQCuHWhtLzQ28",
+    "id": "PLmMOM47Txz7uXPyfv6Gb85ummpD91Kgx7",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:52:52.499717Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Teori Atom dan Energi Atom Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Teori Atom dan Energi Atom Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "BsY2YFX9psOvnGGF_sF4V0YRyVo",
+    "id": "PLmMOM47Txz7ssLHL2gzbiuVv6u5ILQGLx",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:52:04.882679Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Rangkaian Arus Bolak Balik (RLC) Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8VaqLNvII1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8VaqLNvII1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8VaqLNvII1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8VaqLNvII1o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8VaqLNvII1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Rangkaian Arus Bolak Balik (RLC) Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "iX9SZVB8u62NKB1cxtASFLWFyh4",
+    "id": "PLmMOM47Txz7trdzBafZExbDkAUcAcfXms",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:51:30.56438Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Relativitas / Relatifitas Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ncQIM-hqsE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ncQIM-hqsE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ncQIM-hqsE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ncQIM-hqsE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ncQIM-hqsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Relativitas / Relatifitas Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "LqyE_CZ-KNKjniA-oB-Rd5OKPzA",
+    "id": "PLmMOM47Txz7vFuwZyQojYM6cexWD6bDxm",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:50:24.703239Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika Kuantum - Radiasi Benda Hitam dan Efek Fotolistrik Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Fisika Kuantum - Radiasi Benda Hitam dan Efek Fotolistrik Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "TbGKCLtBnDgOF_gL8Mp9u0VVLSk",
+    "id": "PLmMOM47Txz7tFasyeOIE1Xh46T_-sNxGE",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:49:18.66672Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Induksi / Imbas Elektromagnetik (GGL) Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Induksi / Imbas Elektromagnetik (GGL) Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "UKHfsfu7NhJJiOF4hQT_EWNGa7Q",
+    "id": "PLmMOM47Txz7tuL6NEoGdFZT5P0XGB7hO9",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:44:48.69Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Listrik Dinamis Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TK4nmGyIfco/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TK4nmGyIfco/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TK4nmGyIfco/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TK4nmGyIfco/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TK4nmGyIfco/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Listrik Dinamis Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "QejqAV_y28BRgelyzpeNP2S_EIo",
+    "id": "PLmMOM47Txz7s_AQyRNR3SL-OnRfaf03Wa",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:41:50.814519Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Listrik Statis Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Listrik Statis Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "9UULyEbZxrUsVSWTO4k7rEAwLnA",
+    "id": "PLmMOM47Txz7t46O7uIpsh25NKhfYrPOKo",
+    "snippet": {
+      "publishedAt": "2022-11-03T08:39:48.621698Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Medan Magnet Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NvT80iy4lWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NvT80iy4lWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NvT80iy4lWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NvT80iy4lWk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NvT80iy4lWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Medan Magnet Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 7
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "cjdnTvFP-Iuk4i5fvBF26nwEzig",
+    "id": "PLmMOM47Txz7vWqcSGw8qXPVJOyRoY09_h",
+    "snippet": {
+      "publishedAt": "2022-10-16T15:40:46.746387Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Akuntansi",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5xBOQaHMlcQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5xBOQaHMlcQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5xBOQaHMlcQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5xBOQaHMlcQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5xBOQaHMlcQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Akuntansi",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 6
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "1tzFLh7hxjgYq5w5uhbBpwQKuxw",
+    "id": "PLmMOM47Txz7s4dRciZ2CS4LCAzOVPWItF",
+    "snippet": {
+      "publishedAt": "2019-11-06T06:09:38.471439Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gelombang Elektromagnetik Fisika XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gelombang Elektromagnetik Fisika XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "cOfnvTwhE101wRVbhIdHVKdGRP0",
+    "id": "PLmMOM47Txz7uvf9TdoeDbFwB9qSY7THMu",
+    "snippet": {
+      "publishedAt": "2019-11-06T06:01:37.470767Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "MATEMATIKA Logaritma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K0EeKovdLOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "MATEMATIKA Logaritma",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "016qwCjOvBvuzC9ahduXlILVxgs",
+    "id": "PLmMOM47Txz7vUqLB4XgWGhlzErWiAiw4F",
+    "snippet": {
+      "publishedAt": "2019-11-06T06:00:18.42382Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Bentuk Molekul & Geometri Kimia X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Bentuk Molekul & Geometri Kimia X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "I_9OFuZzqnxmFJTwVundGFb8Ey0",
+    "id": "PLmMOM47Txz7tW4D84n0Y7x7cx2ycdraSX",
+    "snippet": {
+      "publishedAt": "2019-11-06T05:59:05.215537Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gerak Melingkar Fisika X",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5kIw1o4okog/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5kIw1o4okog/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5kIw1o4okog/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5kIw1o4okog/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5kIw1o4okog/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gerak Melingkar Fisika X",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  }
+]
