@@ -8,13 +8,6 @@
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
   <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.bootstrap5.min.css">
   <style>
-    div.dataTables_wrapper div.dataTables_length {
-      float: right;
-    }
-    div.dataTables_wrapper div.dataTables_filter {
-      float: left;
-      text-align: left;
-    }
     @media (max-width: 576px) {
       .btn-group-responsive {
         display: flex;
@@ -132,7 +125,10 @@
       if (dataTablePlaylist) dataTablePlaylist.clear().destroy();
       $('#playlistTable tbody').html(rows.join(''));
       dataTablePlaylist = $('#playlistTable').DataTable({
-        responsive: true
+        responsive: true,
+        dom: '<"row mb-2"<"col-sm-6"f><"col-sm-6 text-end"l>>' +
+       '<"row"<"col-sm-12"tr>>' +
+       '<"row mt-2"<"col-sm-5"i><"col-sm-7"p>>'
       });
     }
 
@@ -159,7 +155,10 @@
       if (dataTableVideo) dataTableVideo.clear().destroy();
       $('#videoTable tbody').html(rows.join(''));
       dataTableVideo = $('#videoTable').DataTable({
-        responsive: true
+        responsive: true,
+        dom: '<"row mb-2"<"col-sm-6"f><"col-sm-6 text-end"l>>' +
+       '<"row"<"col-sm-12"tr>>' +
+       '<"row mt-2"<"col-sm-5"i><"col-sm-7"p>>'
       });
     }
 
