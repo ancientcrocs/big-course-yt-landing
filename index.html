@@ -179,6 +179,17 @@
         })
         .catch(err => console.error("Gagal memuat video:", err));
     });
+    
+    window.onload = function () {
+    // Auto jalankan tombol "Seluruh Playlist"
+    showTable('playlist');
+    filterCategory('all');
+
+    // Tambah gaya tombol aktif
+    document.querySelectorAll('.btn-group .btn').forEach(btn => btn.classList.remove('active'));
+    document.querySelector('.btn-outline-primary').classList.add('active');
+      
+  };
   </script>
 </body>
 </html>
