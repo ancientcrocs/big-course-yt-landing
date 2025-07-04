@@ -817,6 +817,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "AuNOStpwKTNKAZBjoa99kw1W0XI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "s9Ej_RAH2NE"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-31T06:51:33Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "SELAMAT HARI RAYA IDUL FITRI",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s9Ej_RAH2NE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s9Ej_RAH2NE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s9Ej_RAH2NE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-31T06:51:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "5h6lNnmDi1He6MyqoYuv73r56c4",
     "id": {
       "kind": "youtube#video",
@@ -1701,40 +1735,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "EKc5ypVCmjzdWlH8EQJ2bp3mTVA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "L4J9nZeJIa8"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-20T11:41:51Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Momentum part 1 : Definisi,Impuls, Hukum Kekekalan Momentum &amp; Koefisien Restitusi",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-20T11:41:51Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "fgSGIIdwZXHgGgw6sluHBnopk_8",
     "id": {
       "kind": "youtube#video",
@@ -2075,7 +2075,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "NGCiljWG0d-wAQgEYPd9NG1caVw",
+    "etag": "4JsPKcz0uQe5zOOeKZYxv_FNTtg",
     "id": {
       "kind": "youtube#video",
       "videoId": "jil0wif5GWw"
@@ -3401,36 +3401,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "JFGPMYCk-80BGE9-2Ja5CIIX21k",
+    "etag": "cscwiXBXoXv7Z7lvoeOn_WsNwL0",
     "id": {
       "kind": "youtube#video",
-      "videoId": "qJsu9iL1uQU"
+      "videoId": "jRqDyQy5Ekc"
     },
     "snippet": {
-      "publishedAt": "2020-02-17T06:00:56Z",
+      "publishedAt": "2020-01-29T06:00:19Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Irisan Kerucut (part 1) - Persamaan Lingkaran",
-      "description": "Ada ralat menit 34:20 itu koko ada salah masukin A nya 2 harusnya -2. Jadi itu jawaban selanjutnya dihitung sendiri lagi ya   ...",
+      "title": "Matematika kelas XI - Suku banyak /  Polinomial part2 : mencari sisa dan hasil bagi",
+      "description": "pada menit 11:34 koko ada salah bicara ya maksudnya 1-1=0 bukan 1x1=0. jadi itu kan maksudnya pembagi nya pangkat 1 ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/default.jpg",
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qJsu9iL1uQU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-02-17T06:00:56Z"
+      "publishTime": "2020-01-29T06:00:19Z"
     }
   },
   {
@@ -3537,36 +3537,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "rrzCIAH70cMFJSOQKmmNuJOSU4Q",
+    "etag": "yl6-YjSXpI1JB5bo5_BzaxzYdRQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "G0giFwuakxM"
+      "videoId": "OzLNHkztfiw"
     },
     "snippet": {
-      "publishedAt": "2023-01-04T10:00:13Z",
+      "publishedAt": "2023-09-24T10:00:10Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika Kelas XI - Limit Trigonometri part 1 - Limit Mendekati 0 atau Nilai",
+      "title": "Matematika XI - Integral Tertentu part 1 - Pembuktian Sifat Dasar 1",
       "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/G0giFwuakxM/default.jpg",
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/G0giFwuakxM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/G0giFwuakxM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-01-04T10:00:13Z"
+      "publishTime": "2023-09-24T10:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M1XWTiodmbxfo_L8h7jznZDrCuc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mVeCifqMlQg"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-27T10:00:49Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XII - Integral Luas Part 1 - Dasar dan Menggambar Grafik - 2024",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-27T10:00:49Z"
     }
   },
   {
@@ -3601,6 +3635,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-11-28T13:37:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rrzCIAH70cMFJSOQKmmNuJOSU4Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "G0giFwuakxM"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-04T10:00:13Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika Kelas XI - Limit Trigonometri part 1 - Limit Mendekati 0 atau Nilai",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G0giFwuakxM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-04T10:00:13Z"
     }
   },
   {
