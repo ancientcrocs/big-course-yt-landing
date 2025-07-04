@@ -1,0 +1,44 @@
+/* DataTables - posisikan Search di kiri, Entries di kanan */
+div.dataTables_wrapper div.dataTables_filter {
+  float: left;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+div.dataTables_wrapper div.dataTables_length {
+  float: right;
+  text-align: right;
+  margin-bottom: 1rem;
+}
+
+/* Responsive button group saat di mobile */
+@media (max-width: 576px) {
+  .btn-group-responsive {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+}
+
+/* Wrap teks agar tidak meluber di kolom */
+.table td {
+  white-space: normal !important;
+  word-break: break-word;
+}
+
+/* Hindari tabel terlalu lebar di HP */
+.table-responsive {
+  overflow-x: auto;
+}
+
+/* Tambahan opsional untuk memperkecil padding */
+.table td,
+.table th {
+  padding: 0.5rem;
+}
+
+/* Tombol kecil rapi */
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
