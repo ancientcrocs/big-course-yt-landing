@@ -2,12 +2,16 @@ let allPlaylists = [];
 let dataTablePlaylist, dataTableVideo;
 
 function showTable(type) {
-  document.getElementById('playlistSection').classList.add('d-none');
-  document.getElementById('videoSection').classList.add('d-none');
+  $('#playlistSection').addClass('d-none');
+  $('#videoSection').addClass('d-none');
+  $('.btn-group .btn').removeClass('active');
+
   if (type === 'playlist') {
-    document.getElementById('playlistSection').classList.remove('d-none');
+    $('#playlistSection').removeClass('d-none');
+    $('.btn-outline-primary').addClass('active');
   } else {
-    document.getElementById('videoSection').classList.remove('d-none');
+    $('#videoSection').removeClass('d-none');
+    $('.btn-outline-dark').addClass('active');
   }
 }
 
@@ -28,34 +32,33 @@ function renderPlaylistTable(items) {
     const playlistId = item.id;
     const videoCount = item.contentDetails?.itemCount || '-';
     const thumbnailUrl = item.snippet.thumbnails?.medium?.url || '';
-    const link = `<a class="btn btn-sm btn-primary mt-1" href="https://www.youtube.com/playlist?list=${playlistId}" target="_blank">Lihat Playlist</a>`;
+    const link = `<a class="btn btn-sm btn-primary playlist-title-link" href="https://www.youtube.com/playlist?list=${playlistId}" target="_blank">Lihat Playlist</a>`;
 
     return `
       <tr>
-        <td><img src="${thumbnailUrl}" alt="Thumbnail" class="img-fluid" style="max-width: 120px;"></td>
-        <td class="text-break" style="min-width: 200px;">
-          ${title}<br>${link}
-        </td>
-        <td class="text-break" style="min-width: 200px;">${description}</td>
+        <td><img src="${thumbnailUrl}" alt="Thumbnail">
+          <br>
+          ${link}</td>
+        <td>${title}</td>
+        <td>${description}</td>
         <td class="text-center">${videoCount}</td>
       </tr>
     `;
   });
 
-  if (dataTablePlaylist) dataTablePlaylist.clear().destroy();
+  if (dataTablePlaylist) dataTablePlaylist.destroy();
   $('#playlistTable tbody').html(rows.join(''));
-  dataTablePlaylist = $('#playlistTable').DataTable({
+  dataTablePlaylist = new DataTable('#playlistTable', {
     responsive: true,
     layout: {
       topStart: {
         search: {
-          placeholder: 'Cari playlist...',
-          className: 'form-control form-control-sm'
+          placeholder: 'Cari playlist...'
         }
       },
       topEnd: {
         pageLength: {
-          className: 'form-select form-select-sm'
+          menu: [10, 25, 50, 100]
         }
       }
     }
@@ -69,41 +72,42 @@ function renderVideoTable(items) {
     const videoId = item.id.videoId;
     const publishDate = new Date(item.snippet.publishedAt).toLocaleDateString('id-ID');
     const thumbnail = item.snippet.thumbnails?.medium?.url || '';
-    const link = `<a class="btn btn-sm btn-outline-primary mt-1" href="https://www.youtube.com/watch?v=${videoId}" target="_blank">Tonton</a>`;
+    const link = `<a class="btn btn-sm btn-outline-primary video-title-link" href="https://www.youtube.com/watch?v=${videoId}" target="_blank">Tonton Video</a>`;
 
     return `
       <tr>
-        <td><img src="${thumbnail}" class="img-fluid" style="max-width: 120px;"></td>
-        <td class="text-break" style="min-width: 200px;">
-          ${title}<br>${link}
+        <td>
+        <img src="${thumbnail}" alt="Thumbnail">
+        <br>
+          ${link}
         </td>
-        <td class="text-break" style="min-width: 200px;">${description}</td>
-        <td class="text-nowrap text-center">${publishDate}</td>
+        <td>${title}</td>
+        <td>${description}</td>
+        <td>${publishDate}</td>
       </tr>
     `;
   });
 
-  if (dataTableVideo) dataTableVideo.clear().destroy();
+  if (dataTableVideo) dataTableVideo.destroy();
   $('#videoTable tbody').html(rows.join(''));
-  dataTableVideo = $('#videoTable').DataTable({
+  dataTableVideo = new DataTable('#videoTable', {
     responsive: true,
     layout: {
       topStart: {
         search: {
-          placeholder: 'Cari video...',
-          className: 'form-control form-control-sm'
+          placeholder: 'Cari video...'
         }
       },
       topEnd: {
         pageLength: {
-          className: 'form-select form-select-sm'
+          menu: [10, 25, 50, 100]
         }
       }
     }
   });
 }
 
-$(document).ready(function () {
+$(document).ready(() => {
   fetch('cache/playlists.json')
     .then(res => res.json())
     .then(data => {
@@ -117,9 +121,7 @@ $(document).ready(function () {
       renderVideoTable(data);
     });
 
+  // Default tampilkan playlist
   showTable('playlist');
   filterCategory('all');
-
-  document.querySelectorAll('.btn-group .btn').forEach(btn => btn.classList.remove('active'));
-  document.querySelector('.btn-outline-primary').classList.add('active');
 });

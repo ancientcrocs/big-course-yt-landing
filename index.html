@@ -15,12 +15,12 @@
     </div>
   </nav>
 
-  <div class="container">
+  <div class="container-fluid px-3">
     <div class="text-center mb-4">
       <h1 class="display-5">Konten Channel YouTube Big Course</h1>
       <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
 
-      <div class="btn-group mb-4" role="group">
+      <div class="btn-group mb-4 flex-wrap d-flex gap-1 justify-content-center" role="group">
         <button class="btn btn-outline-dark" onclick="showTable('video')">Seluruh Video</button>
         <button class="btn btn-outline-primary" onclick="showTable('playlist'); filterCategory('all')">Seluruh Playlist</button>
         <button class="btn btn-outline-secondary" onclick="showTable('playlist'); filterCategory('matematika')">Matematika</button>
@@ -30,10 +30,10 @@
     </div>
 
     <div class="table-responsive mb-5" id="playlistSection">
-      <table id="playlistTable" class="table table-bordered table-hover" style="width:100%">
+      <table id="playlistTable" class="table table-bordered table-hover nowrap w-100">
         <thead class="table-dark">
           <tr>
-            <th>Thumbnail</th>
+            <th>Link</th>
             <th>Judul Playlist</th>
             <th>Deskripsi</th>
             <th>Jumlah Video</th>
@@ -44,10 +44,10 @@
     </div>
 
     <div class="table-responsive mb-5 d-none" id="videoSection">
-      <table id="videoTable" class="table table-bordered table-hover" style="width:100%">
+      <table id="videoTable" class="table table-bordered table-hover nowrap w-100">
         <thead class="table-light">
           <tr>
-            <th>Thumbnail</th>
+            <th>Link</th>
             <th>Judul Video</th>
             <th>Deskripsi</th>
             <th>Tanggal Publikasi</th>

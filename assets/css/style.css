@@ -1,44 +1,57 @@
-/* DataTables - posisikan Search di kiri, Entries di kanan */
-div.dataTables_wrapper div.dataTables_filter {
-  float: left;
-  text-align: left;
-  margin-bottom: 1rem;
-}
-div.dataTables_wrapper div.dataTables_length {
-  float: right;
-  text-align: right;
-  margin-bottom: 1rem;
+/* style.css */
+
+/* Pastikan tombol aktif terlihat jelas */
+.btn.active {
+  color: #fff !important;
 }
 
-/* Responsive button group saat di mobile */
+/* Gaya tabel DataTables */
+.dataTables_wrapper .dataTables_length select {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+/* Jarak antar elemen search dan dropdown */
+.dataTables_wrapper .dataTables_filter {
+  margin-bottom: 0.5rem;
+}
+
+.dataTables_wrapper .dataTables_length {
+  margin-bottom: 0.5rem;
+}
+
+/* Gambar di dalam tabel agar tidak terlalu besar dan tetap proporsional */
+table img {
+  max-width: 100px;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Breakline tombol link video/playlist */
+.video-title-link,
+.playlist-title-link {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+/* Hindari tabel terlalu mepet di mobile */
 @media (max-width: 576px) {
-  .btn-group-responsive {
-    display: flex;
-    flex-wrap: wrap;
+  .btn-group {
+    flex-direction: column;
     gap: 0.5rem;
-    justify-content: center;
   }
-}
 
-/* Wrap teks agar tidak meluber di kolom */
-.table td {
-  white-space: normal !important;
-  word-break: break-word;
-}
+  .dataTables_wrapper .dataTables_filter,
+  .dataTables_wrapper .dataTables_length {
+    text-align: center !important;
+  }
 
-/* Hindari tabel terlalu lebar di HP */
-.table-responsive {
-  overflow-x: auto;
-}
+  .dataTables_wrapper .dataTables_filter input {
+    width: 100% !important;
+    margin-top: 0.5rem;
+  }
 
-/* Tambahan opsional untuk memperkecil padding */
-.table td,
-.table th {
-  padding: 0.5rem;
-}
-
-/* Tombol kecil rapi */
-.btn-sm {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  table img {
+    max-width: 80px;
+  }
 }

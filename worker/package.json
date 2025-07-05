@@ -1,0 +1,12 @@
+{
+  "name": "big-course-cache-updater",
+  "version": "1.0.0",
+  "description": "Script untuk menyinkronkan cache playlist dan video dari channel Big Course",
+  "main": "updateCache.js",
+  "scripts": {
+    "start": "node updateCache.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
