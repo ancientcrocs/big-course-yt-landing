@@ -919,40 +919,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "7N8Q4s0klZKB725K1U5_Vlva4hU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "7ye3WMx_n9s"
-    },
-    "snippet": {
-      "publishedAt": "2023-08-20T10:00:11Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika Kelas XI - Bilangan Kompleks part 1 - Definisi dan Operasi Matematika",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-08-20T10:00:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "DytcBtcwmdTf2qSX-FsSJcMSL4M",
     "id": {
       "kind": "youtube#video",
@@ -983,6 +949,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2021-01-04T04:36:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "7N8Q4s0klZKB725K1U5_Vlva4hU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7ye3WMx_n9s"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-20T10:00:11Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika Kelas XI - Bilangan Kompleks part 1 - Definisi dan Operasi Matematika",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-20T10:00:11Z"
     }
   },
   {
@@ -1463,40 +1463,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "o0NWMsb1ESv520069YEGHHulOIA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "AjWdM0JreC0"
-    },
-    "snippet": {
-      "publishedAt": "2021-02-01T13:10:00Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas X - Larutan Elektrolit dan Non Elektrolit",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-02-01T13:10:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "JvHHu0fwm_3oqO0swK18JwRIvoM",
     "id": {
       "kind": "youtube#video",
@@ -1527,6 +1493,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-01-07T08:17:46Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "o0NWMsb1ESv520069YEGHHulOIA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "AjWdM0JreC0"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-01T13:10:00Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas X - Larutan Elektrolit dan Non Elektrolit",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-01T13:10:00Z"
     }
   },
   {
@@ -3095,40 +3095,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TY907E1z0FQ4KcR-wXykjml7V30",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "z3PgpoTNGRY"
-    },
-    "snippet": {
-      "publishedAt": "2024-01-28T10:00:10Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Akuntansi - Latihan Jurnal Khusus Perusahaan Dagang part 1",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2024-01-28T10:00:10Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "oFqLgg5NyjBK1KlwatEgte3k51Q",
     "id": {
       "kind": "youtube#video",
@@ -3159,6 +3125,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2024-12-25T11:02:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "TY907E1z0FQ4KcR-wXykjml7V30",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "z3PgpoTNGRY"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-28T10:00:10Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Akuntansi - Latihan Jurnal Khusus Perusahaan Dagang part 1",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-28T10:00:10Z"
     }
   },
   {
@@ -3197,7 +3197,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "D-J-rfkr4zzjLHk0tv62KVlEyR8",
+    "etag": "px6go2pE6_fap1w_qQqIGHn5nZE",
     "id": {
       "kind": "youtube#video",
       "videoId": "UAgNXMd7UMM"
@@ -3571,40 +3571,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "M1XWTiodmbxfo_L8h7jznZDrCuc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "mVeCifqMlQg"
-    },
-    "snippet": {
-      "publishedAt": "2024-10-27T10:00:49Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XII - Integral Luas Part 1 - Dasar dan Menggambar Grafik - 2024",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2024-10-27T10:00:49Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "yBOGM0sDtvOkBqV9wK_m32m-iYU",
     "id": {
       "kind": "youtube#video",
@@ -3635,6 +3601,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-11-28T13:37:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "M1XWTiodmbxfo_L8h7jznZDrCuc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mVeCifqMlQg"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-27T10:00:49Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XII - Integral Luas Part 1 - Dasar dan Menggambar Grafik - 2024",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mVeCifqMlQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-27T10:00:49Z"
     }
   },
   {
