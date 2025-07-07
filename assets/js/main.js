@@ -18,7 +18,7 @@ function renderCards(items) {
         <div class="card h-100 shadow-sm">
           <img src="${thumbnail}" class="card-img-top" alt="Thumbnail">
           <div class="card-body d-flex flex-column">
-            <h5 class="card-title">${title}</h5>
+            <h5 class="card-title playlist-title">${title}</h5>
             ${date ? `<small class="text-muted mb-2">📅 ${date}</small>` : ''}
             <p class="card-text">${description}</p>
             <a href="${link}" target="_blank" class="btn btn-sm btn-primary mt-auto">${label}</a>

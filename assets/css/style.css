@@ -170,6 +170,10 @@ body.dark-mode .card {
   color: #ddd;
 }
 
+body.dark-mode .playlist-title {
+  color: #ffffff !important;
+}
+
 body.dark-mode .btn-outline-primary,
 body.dark-mode .btn-outline-secondary,
 body.dark-mode .btn-outline-success,
