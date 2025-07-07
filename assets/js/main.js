@@ -1,127 +1,93 @@
 let allPlaylists = [];
-let dataTablePlaylist, dataTableVideo;
+let allVideos = [];
 
-function showTable(type) {
-  $('#playlistSection').addClass('d-none');
-  $('#videoSection').addClass('d-none');
-  $('.btn-group .btn').removeClass('active');
+function renderCards(items) {
+  const cards = items.map(item => {
+    const isVideo = !!item.id.videoId;
+    const title = item.snippet.title;
+    const description = item.snippet.description || '-';
+    const thumbnail = item.snippet.thumbnails?.medium?.url || '';
+    const link = isVideo
+      ? `https://www.youtube.com/watch?v=${item.id.videoId}`
+      : `https://www.youtube.com/playlist?list=${item.id}`;
+    const date = isVideo ? new Date(item.snippet.publishedAt).toLocaleDateString('id-ID') : '';
+    const label = isVideo ? 'Tonton Video' : 'Lihat Playlist';
 
-  if (type === 'playlist') {
-    $('#playlistSection').removeClass('d-none');
-    $('.btn-outline-primary').addClass('active');
-  } else {
-    $('#videoSection').removeClass('d-none');
-    $('.btn-outline-dark').addClass('active');
-  }
+    return `
+      <div class="col-md-4 mb-4">
+        <div class="card h-100 shadow-sm">
+          <img src="${thumbnail}" class="card-img-top" alt="Thumbnail">
+          <div class="card-body d-flex flex-column">
+            <h5 class="card-title">${title}</h5>
+            ${date ? `<small class="text-muted mb-2">📅 ${date}</small>` : ''}
+            <p class="card-text">${description}</p>
+            <a href="${link}" target="_blank" class="btn btn-sm btn-primary mt-auto">${label}</a>
+          </div>
+        </div>
+      </div>
+    `;
+  });
+
+  $('#cardContainer').html(cards.join(''));
 }
 
-function filterCategory(category) {
-  let filtered = allPlaylists;
-  if (category !== 'all') {
-    filtered = allPlaylists.filter(item =>
+function applyFilters() {
+  const category = $('#categoryFilter').val();
+  const search = $('#searchInput').val().toLowerCase();
+
+  let filtered = [];
+
+  if (category === 'playlist') {
+    filtered = allPlaylists;
+  } else if (category === 'video') {
+    filtered = allVideos;
+  } else {
+    filtered = [...allPlaylists, ...allVideos];
+  }
+
+  if (['matematika', 'kimia', 'fisika'].includes(category)) {
+    filtered = filtered.filter(item =>
       item.snippet.title.toLowerCase().includes(category)
     );
   }
-  renderPlaylistTable(filtered);
-}
 
-function renderPlaylistTable(items) {
-  const rows = items.map(item => {
-    const title = item.snippet.title;
-    const description = item.snippet.description || '-';
-    const playlistId = item.id;
-    const videoCount = item.contentDetails?.itemCount || '-';
-    const thumbnailUrl = item.snippet.thumbnails?.medium?.url || '';
-    const link = `<a class="btn btn-sm btn-primary playlist-title-link" href="https://www.youtube.com/playlist?list=${playlistId}" target="_blank">Lihat Playlist</a>`;
+  if (search.trim() !== '') {
+    filtered = filtered.filter(item =>
+      item.snippet.title.toLowerCase().includes(search)
+    );
+  }
 
-    return `
-      <tr>
-        <td><img src="${thumbnailUrl}" alt="Thumbnail">
-          <br>
-          ${link}</td>
-        <td>${title}</td>
-        <td>${description}</td>
-        <td class="text-center">${videoCount}</td>
-      </tr>
-    `;
-  });
-
-  if (dataTablePlaylist) dataTablePlaylist.destroy();
-  $('#playlistTable tbody').html(rows.join(''));
-  dataTablePlaylist = new DataTable('#playlistTable', {
-    responsive: true,
-    layout: {
-      topStart: {
-        search: {
-          placeholder: 'Cari playlist...'
-        }
-      },
-      topEnd: {
-        pageLength: {
-          menu: [10, 25, 50, 100]
-        }
-      }
-    }
-  });
-}
-
-function renderVideoTable(items) {
-  const rows = items.map(item => {
-    const title = item.snippet.title;
-    const description = item.snippet.description || '-';
-    const videoId = item.id.videoId;
-    const publishDate = new Date(item.snippet.publishedAt).toLocaleDateString('id-ID');
-    const thumbnail = item.snippet.thumbnails?.medium?.url || '';
-    const link = `<a class="btn btn-sm btn-outline-primary video-title-link" href="https://www.youtube.com/watch?v=${videoId}" target="_blank">Tonton Video</a>`;
-
-    return `
-      <tr>
-        <td>
-        <img src="${thumbnail}" alt="Thumbnail">
-        <br>
-          ${link}
-        </td>
-        <td>${title}</td>
-        <td>${description}</td>
-        <td>${publishDate}</td>
-      </tr>
-    `;
-  });
-
-  if (dataTableVideo) dataTableVideo.destroy();
-  $('#videoTable tbody').html(rows.join(''));
-  dataTableVideo = new DataTable('#videoTable', {
-    responsive: true,
-    layout: {
-      topStart: {
-        search: {
-          placeholder: 'Cari video...'
-        }
-      },
-      topEnd: {
-        pageLength: {
-          menu: [10, 25, 50, 100]
-        }
-      }
-    }
-  });
+  renderCards(filtered);
 }
 
 $(document).ready(() => {
-  fetch('cache/playlists.json')
-    .then(res => res.json())
-    .then(data => {
-      allPlaylists = data;
-      renderPlaylistTable(data);
-    });
+  Promise.all([
+    fetch('cache/playlists.json').then(res => res.json()),
+    fetch('cache/videos.json').then(res => res.json())
+  ]).then(([playlists, videos]) => {
+    allPlaylists = playlists;
+    allVideos = videos;
+    applyFilters(); // Render awal
+  });
 
-  fetch('cache/videos.json')
-    .then(res => res.json())
-    .then(data => {
-      renderVideoTable(data);
-    });
+  $('#categoryFilter').on('change', applyFilters);
+  $('#searchInput').on('input', applyFilters);
+});
 
-  // Default tampilkan playlist
-  showTable('playlist');
-  filterCategory('all');
+function updateDarkModeIcon() {
+  const isDark = document.body.classList.contains('dark-mode');
+  document.getElementById('darkModeToggle').innerText = isDark ? '☀️' : '🌙';
+}
+
+document.getElementById('darkModeToggle').addEventListener('click', function () {
+  document.body.classList.toggle('dark-mode');
+  localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  updateDarkModeIcon();
+});
+
+window.addEventListener('DOMContentLoaded', () => {
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+  updateDarkModeIcon();
 });

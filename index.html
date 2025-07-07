@@ -5,56 +5,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Playlist Channel Big Course</title>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.bootstrap5.css">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Big Course</a>
-    </div>
-  </nav>
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Big Course</a>
 
-  <div class="container-fluid px-3">
+    <!-- Toggle Dark Mode -->
+    <button id="darkModeToggle" class="btn btn-outline-light ms-auto" title="Toggle dark mode">
+      🌙
+    </button>
+  </div>
+</nav>
+
+  <div class="container">
     <div class="text-center mb-4">
       <h1 class="display-5">Konten Channel YouTube Big Course</h1>
       <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
+    </div>
 
-      <div class="btn-group mb-4 flex-wrap d-flex gap-1 justify-content-center" role="group">
-        <button class="btn btn-outline-dark" onclick="showTable('video')">Seluruh Video</button>
-        <button class="btn btn-outline-primary" onclick="showTable('playlist'); filterCategory('all')">Seluruh Playlist</button>
-        <button class="btn btn-outline-secondary" onclick="showTable('playlist'); filterCategory('matematika')">Matematika</button>
-        <button class="btn btn-outline-success" onclick="showTable('playlist'); filterCategory('kimia')">Kimia</button>
-        <button class="btn btn-outline-warning" onclick="showTable('playlist'); filterCategory('fisika')">Fisika</button>
+    <!-- Filter dan Search -->
+    <div class="row mb-4 align-items-center">
+      <div class="col-md-6 mb-2">
+        <select id="categoryFilter" class="form-select">
+          <option value="all">Semua Kategori</option>
+          <option value="playlist">Playlist</option>
+          <option value="video">Video</option>
+          <option value="matematika">Matematika</option>
+          <option value="kimia">Kimia</option>
+          <option value="fisika">Fisika</option>
+        </select>
+      </div>
+      <div class="col-md-6 mb-2">
+        <input type="text" id="searchInput" class="form-control" placeholder="Cari konten...">
       </div>
     </div>
 
-    <div class="table-responsive mb-5" id="playlistSection">
-      <table id="playlistTable" class="table table-bordered table-hover w-100">
-        <thead class="table-dark">
-          <tr>
-            <th>Link</th>
-            <th>Judul Playlist</th>
-            <th>Deskripsi</th>
-            <th>Jumlah Video</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-    </div>
-
-    <div class="table-responsive mb-5 d-none" id="videoSection">
-      <table id="videoTable" class="table table-bordered table-hover w-100">
-        <thead class="table-light">
-          <tr>
-            <th>Link</th>
-            <th>Judul Video</th>
-            <th>Deskripsi</th>
-            <th>Tanggal Publikasi</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
+    <!-- Container Card -->
+    <div class="row" id="cardContainer">
+      <!-- Konten akan diisi lewat JS -->
     </div>
   </div>
 
@@ -62,10 +52,8 @@
     <small>&copy; 2025 Big Course. Semua Hak Dilindungi.</small>
   </footer>
 
-  <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
-  <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
-  <script src="https://cdn.datatables.net/2.3.2/js/dataTables.bootstrap5.js"></script>
   <script src="assets/js/main.js"></script>
 </body>
 </html>
