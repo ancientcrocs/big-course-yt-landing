@@ -817,40 +817,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "E9TuCg71t38MYDnUTSTtjVYjdh0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "T7Jzls0YFFw"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-26T03:00:11Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Integral Aljabar part 1 : Metode Langsung dan Substitusi ( Pemisalan )",
-      "description": "RALAT !! pada menit 11:05 itu setelah di integral tulisan dx seharusnya +c Gabung Membership BIG Course di link dibawah ini ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-26T03:00:11Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "5h6lNnmDi1He6MyqoYuv73r56c4",
     "id": {
       "kind": "youtube#video",
@@ -881,6 +847,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-10-31T07:56:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "E9TuCg71t38MYDnUTSTtjVYjdh0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "T7Jzls0YFFw"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-26T03:00:11Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XI - Integral Aljabar part 1 : Metode Langsung dan Substitusi ( Pemisalan )",
+      "description": "RALAT !! pada menit 11:05 itu setelah di integral tulisan dx seharusnya +c Gabung Membership BIG Course di link dibawah ini ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T7Jzls0YFFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-26T03:00:11Z"
     }
   },
   {
@@ -1055,40 +1055,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "m0R-WFRl2XXwivQNbIEvZ6PUE_Y",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Dvov_EOkhpo"
-    },
-    "snippet": {
-      "publishedAt": "2021-08-29T01:00:02Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XII - Listrik Statis part 1 - Gaya Listrik Statis",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-08-29T01:00:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "Z5IErA03iOBOb86g_4F9SlEY3n0",
     "id": {
       "kind": "youtube#video",
@@ -1119,6 +1085,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-03-09T06:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "m0R-WFRl2XXwivQNbIEvZ6PUE_Y",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Dvov_EOkhpo"
+    },
+    "snippet": {
+      "publishedAt": "2021-08-29T01:00:02Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XII - Listrik Statis part 1 - Gaya Listrik Statis",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dvov_EOkhpo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-08-29T01:00:02Z"
     }
   },
   {
@@ -1395,40 +1395,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "qOAIEheAdSPc9VT4T-YV20z6dwo",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "c7E-dBicvjY"
-    },
-    "snippet": {
-      "publishedAt": "2021-02-28T01:00:14Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XII - Distribusi Normal part 1 - Cara Baca Tabel, Rumus dan Latihan Soal",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-02-28T01:00:14Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "Q5qeN4PBerfrTewgd5n-po3YiLU",
     "id": {
       "kind": "youtube#video",
@@ -1459,6 +1425,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-01-09T06:00:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qOAIEheAdSPc9VT4T-YV20z6dwo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "c7E-dBicvjY"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-28T01:00:14Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XII - Distribusi Normal part 1 - Cara Baca Tabel, Rumus dan Latihan Soal",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c7E-dBicvjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-28T01:00:14Z"
     }
   },
   {
@@ -2347,40 +2347,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "2iT2qJsL-4_7STPYlxQj7M2ehII",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "hKlCH82gc3E"
-    },
-    "snippet": {
-      "publishedAt": "2019-11-03T06:00:04Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XII - Senyawa Benzena - Part 1 - Cara penamaan dan susunannya",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-11-03T06:00:04Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "vIIqj0abG90ENqYenxuUC0Vgbxo",
     "id": {
       "kind": "youtube#video",
@@ -2411,6 +2377,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-12-04T08:50:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "2iT2qJsL-4_7STPYlxQj7M2ehII",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hKlCH82gc3E"
+    },
+    "snippet": {
+      "publishedAt": "2019-11-03T06:00:04Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XII - Senyawa Benzena - Part 1 - Cara penamaan dan susunannya",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hKlCH82gc3E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-11-03T06:00:04Z"
     }
   },
   {
@@ -2755,40 +2755,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "-EMFebwba1JPCmaAv9g_4Hnwb5w",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Bj9-PCAlOHo"
-    },
-    "snippet": {
-      "publishedAt": "2019-09-15T06:00:00Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XII - Sel Elektrolisis",
-      "description": "mohon maaf ada ralat pada menit 19:00 itu hasilnya 2NaCl --- 2Na + Cl2 Apa itu sel elektrolisis? Di dalam video ini, ko Ben akan ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-09-15T06:00:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "0TljcmrgNwookpvmkAF2nF8d8GA",
     "id": {
       "kind": "youtube#video",
@@ -2819,6 +2785,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-10-02T06:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-EMFebwba1JPCmaAv9g_4Hnwb5w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Bj9-PCAlOHo"
+    },
+    "snippet": {
+      "publishedAt": "2019-09-15T06:00:00Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XII - Sel Elektrolisis",
+      "description": "mohon maaf ada ralat pada menit 19:00 itu hasilnya 2NaCl --- 2Na + Cl2 Apa itu sel elektrolisis? Di dalam video ini, ko Ben akan ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-09-15T06:00:00Z"
     }
   },
   {
@@ -3129,7 +3129,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "TY907E1z0FQ4KcR-wXykjml7V30",
+    "etag": "9JQk-qCWQBGssJWYY4t5IZ7w66w",
     "id": {
       "kind": "youtube#video",
       "videoId": "z3PgpoTNGRY"
@@ -3401,40 +3401,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "HSsFqTELUhNHvpG7NZFOSREP59Y",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "tTbtEjLgFPY"
-    },
-    "snippet": {
-      "publishedAt": "2019-10-25T06:00:02Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Notasi Sigma part 1 - Pemahaman dan Sifat Sigma",
-      "description": "Bagaimana memahami notasi sigma? Apa saja sifat sifat dalam notasi sigma?? Di dalam video ini, ko Ben akan menjelaskan ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tTbtEjLgFPY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-10-25T06:00:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "RBvoYdYXmYJwQXLMkQbc7kylbUk",
     "id": {
       "kind": "youtube#video",
@@ -3465,6 +3431,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-10-11T01:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cscwiXBXoXv7Z7lvoeOn_WsNwL0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jRqDyQy5Ekc"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-29T06:00:19Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XI - Suku banyak /  Polinomial part2 : mencari sisa dan hasil bagi",
+      "description": "pada menit 11:34 koko ada salah bicara ya maksudnya 1-1=0 bukan 1x1=0. jadi itu kan maksudnya pembagi nya pangkat 1 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-29T06:00:19Z"
     }
   },
   {
@@ -4111,6 +4111,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2021-02-18T03:51:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "WMH1rsxE4M7AHUCNcWYnTq6mGTU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "U2fR4KFGq6Q"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-19T02:49:56Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XII - Gelombang Elektromagnetik",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U2fR4KFGq6Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-19T02:49:56Z"
     }
   },
   {
