@@ -1,56 +1,87 @@
-/* style.css */
+/* ========== Reset dan Umum ========== */
+body {
+  background-color: #fff;
+  color: #000;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
 
-/* Aktifkan warna tombol dropdown dan lainnya */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#cardContainer {
+  margin-top: 1rem;
+}
+
+/* ========== Tombol Aktif ========== */
 .btn.active {
   color: #fff !important;
   background-color: #0d6efd !important;
   border-color: #0d6efd !important;
 }
 
-/* Thumbnail agar seragam dan proporsional */
-.card-img-top {
+/* ========== Card Style ala CasaOS ========== */
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 1rem;
+  background-color: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  z-index: 2;
+}
+
+.card .btn {
+  border-radius: 999px;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.card .btn:hover {
+  background-color: #0b5ed7;
+  color: #fff;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  color: #111827;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #4b5563;
+  margin-bottom: 0.75rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card small {
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.card-img-top,
+.card img.img-thumbnail {
   height: 180px;
   object-fit: cover;
-  border-top-left-radius: 0.375rem;
-  border-top-right-radius: 0.375rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
 }
 
-/* Responsive grid spacing */
-#cardContainer {
-  margin-top: 1rem;
-}
-
-/* Search dan Filter di mobile */
-#filterRow {
-  margin-bottom: 1rem;
-}
-
-@media (max-width: 576px) {
-  #filterRow {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
-  #searchInput {
-    width: 100% !important;
-  }
-}
-
-/* DataTables (jika tetap digunakan) */
-.dataTables_wrapper .dataTables_length select {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-}
-
-.dataTables_wrapper .dataTables_filter {
-  margin-bottom: 0.5rem;
-}
-
-.dataTables_wrapper .dataTables_length {
-  margin-bottom: 0.5rem;
-}
-
-/* Gambar dalam tabel DataTables */
+/* ========== Tabel dan DataTables ========== */
 table img {
   max-width: 100px;
   height: auto;
@@ -63,8 +94,27 @@ table img {
   margin-top: 0.5rem;
 }
 
-/* Mobile layout untuk tabel */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter {
+  margin-bottom: 0.5rem;
+}
+
+.dataTables_wrapper .dataTables_length select {
+  margin: 0 0.5rem;
+}
+
+/* ========== Responsif Mobile ========== */
 @media (max-width: 576px) {
+  #filterRow {
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  #searchInput {
+    width: 100% !important;
+  }
+
   .dataTables_wrapper .dataTables_filter,
   .dataTables_wrapper .dataTables_length {
     text-align: center !important;
@@ -75,82 +125,29 @@ table img {
     margin-top: 0.5rem;
   }
 
+  .pagination {
+    flex-wrap: nowrap !important;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
   table img {
     max-width: 80px;
   }
 }
 
-/* CasaOS-style card effect */
-.card {
-  border: 1px solid #e5e7eb;
-  border-radius: 1rem;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  background-color: #ffffff;
-}
-
-.card:hover {
-  transform: translateY(-4px) scale(1.02);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-  z-index: 2;
-}
-
-/* Tombol "Lihat Playlist" dan "Tonton Video" tampilan lebih halus */
-.card .btn {
-  border-radius: 999px;
-  font-weight: 500;
-  transition: background-color 0.2s ease;
-}
-
-.card .btn:hover {
-  background-color: #0b5ed7;
-  color: #fff;
-}
-
-/* Judul Card lebih menonjol */
-.card-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 0.25rem;
-  color: #111827;
-}
-
-/* Teks deskripsi dalam card */
-.card-text {
-  font-size: 0.9rem;
-  color: #4b5563;
-  margin-bottom: 0.75rem;
-  display: -webkit-box;
-  display: box; /* Tambahkan ini untuk standard compatibility */
-  overflow: hidden;
-  text-overflow: ellipsis;
-  -webkit-line-clamp: 3;
-  line-clamp: 3; /* Standar properti */
-  -webkit-box-orient: vertical;
-  box-orient: vertical; /* Standar properti */
-}
-
-/* Tanggal publikasi video */
-.card small {
-  font-size: 0.8rem;
-  color: #6b7280;
-}
-
-/* Responsive image */
-.card-img-top {
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
-  height: 180px;
-  object-fit: cover;
-}
-
+/* ========== Mode Gelap ========== */
 body.dark-mode {
   background-color: #121212;
   color: #f1f1f1;
 }
 
-body.dark-mode .table {
-  color: #f1f1f1;
+body.dark-mode .table,
+body.dark-mode .card,
+body.dark-mode .navbar,
+body.dark-mode footer {
+  background-color: #1e1e1e;
+  color: #ddd;
 }
 
 body.dark-mode .table thead {
@@ -158,20 +155,13 @@ body.dark-mode .table thead {
   color: #f1f1f1;
 }
 
-body.dark-mode .navbar,
-body.dark-mode footer {
-  background-color: #1a1a1a !important;
-  color: #fff;
-}
-
-body.dark-mode .card {
-  background-color: #1e1e1e;
-  border-color: #333;
-  color: #ddd;
-}
-
+body.dark-mode .card-title,
 body.dark-mode .playlist-title {
   color: #ffffff !important;
+}
+
+body.dark-mode .card-text {
+  color: #bbb;
 }
 
 body.dark-mode .btn-outline-primary,

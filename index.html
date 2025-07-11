@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Playlist Channel Big Course</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css">
+  
+  <!-- CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+
+  <!-- SEO -->
+  <meta name="description" content="Temukan semua playlist dan video edukatif dari channel YouTube Big Course. Materi Matematika, Fisika, dan Kimia lengkap!" />
+  <meta name="keywords" content="Big Course, YouTube edukasi, Playlist Matematika, Video Kimia, Fisika SMA" />
+  <meta name="author" content="Big Course" />
 </head>
 <body>
+  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Big Course</a>
-
-    <!-- Toggle Dark Mode -->
-    <button id="darkModeToggle" class="btn btn-outline-light ms-auto" title="Toggle dark mode">
-      🌙
-    </button>
-  </div>
-</nav>
-
-  <div class="container">
-    <div class="text-center mb-4">
-      <h1 class="display-5">Konten Channel YouTube Big Course</h1>
-      <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Big Course</a>
+      <button id="darkModeToggle" class="btn btn-outline-light ms-auto" title="Toggle dark mode">🌙</button>
     </div>
+  </nav>
 
-    <!-- Filter dan Search -->
-    <div class="row mb-4 align-items-center">
-      <div class="col-md-6 mb-2">
+  <!-- Header -->
+  <header class="text-center mb-4 container">
+    <h1 class="display-5">Konten Channel YouTube Big Course</h1>
+    <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
+  </header>
+
+  <!-- Filter dan Search -->
+  <section class="container mb-4">
+    <div class="row align-items-center g-2">
+      <div class="col-md-6">
         <select id="categoryFilter" class="form-select">
           <option value="all">Semua Kategori</option>
           <option value="playlist">Playlist</option>
@@ -37,23 +42,34 @@
           <option value="fisika">Fisika</option>
         </select>
       </div>
-      <div class="col-md-6 mb-2">
-        <input type="text" id="searchInput" class="form-control" placeholder="Cari konten...">
+      <div class="col-md-6">
+        <input type="text" id="searchInput" class="form-control" placeholder="Cari konten..." />
       </div>
     </div>
+  </section>
 
-    <!-- Container Card -->
+  <!-- Card Container -->
+  <main class="container">
     <div class="row" id="cardContainer">
-      <!-- Konten akan diisi lewat JS -->
+      <!-- Kartu akan dirender lewat JavaScript -->
     </div>
-  </div>
 
+    <!-- Pagination -->
+    <nav class="pagination-wrapper">
+      <ul class="pagination justify-content-center" id="pagination">
+        <!-- Elemen pagination akan diisi JS -->
+      </ul>
+    </nav>
+  </main>
+
+  <!-- Footer -->
   <footer class="bg-dark text-white text-center py-3 mt-5">
     <small>&copy; 2025 Big Course. Semua Hak Dilindungi.</small>
   </footer>
 
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/main.js"></script>
+  <!-- Scripts -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.bundle.min.js" defer></script>
+  <script src="assets/js/main.js" defer></script>
 </body>
 </html>
