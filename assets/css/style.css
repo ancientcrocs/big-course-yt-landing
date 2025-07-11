@@ -1,4 +1,4 @@
-/* ========== Reset dan Umum ========== */
+/* ========== Reset & Umum ========== */
 body {
   background-color: #fff;
   color: #000;
@@ -14,14 +14,14 @@ img {
   margin-top: 1rem;
 }
 
-/* ========== Tombol Aktif ========== */
+/* ========== Tombol Aktif (Filter) ========== */
 .btn.active {
   color: #fff !important;
   background-color: #0d6efd !important;
   border-color: #0d6efd !important;
 }
 
-/* ========== Card Style ala CasaOS ========== */
+/* ========== Card (Gaya ala CasaOS) ========== */
 .card {
   border: 1px solid #e5e7eb;
   border-radius: 1rem;
@@ -62,11 +62,8 @@ img {
   color: #4b5563;
   margin-bottom: 0.75rem;
   display: -webkit-box;
-  display: box; /* fallback */
   -webkit-box-orient: vertical;
-  box-orient: vertical; /* fallback */
   -webkit-line-clamp: 3;
-  line-clamp: 3; /* Not yet standardized, optional */
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -132,6 +129,11 @@ table img {
     flex-wrap: nowrap !important;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+
+  .pagination .page-item {
+    scroll-snap-align: start;
   }
 
   table img {
