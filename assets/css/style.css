@@ -1,4 +1,4 @@
-/* ========== Reset & Umum ========== */
+/* ========= Reset & Umum ========= */
 body {
   background-color: #fff;
   color: #000;
@@ -14,14 +14,14 @@ img {
   margin-top: 1rem;
 }
 
-/* ========== Tombol Aktif (Filter) ========== */
+/* ========= Tombol Aktif (Filter Kategori) ========= */
 .btn.active {
   color: #fff !important;
   background-color: #0d6efd !important;
   border-color: #0d6efd !important;
 }
 
-/* ========== Card (Gaya ala CasaOS) ========== */
+/* ========= Card (Gaya ala CasaOS) ========= */
 .card {
   border: 1px solid #e5e7eb;
   border-radius: 1rem;
@@ -81,7 +81,41 @@ img {
   border-top-right-radius: 1rem;
 }
 
-/* ========== Tabel dan DataTables ========== */
+/* ========= Pagination (Gaya Google) ========= */
+.pagination {
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.page-item .page-link {
+  border-radius: 0.5rem;
+  padding: 0.4rem 0.75rem;
+  font-weight: 500;
+  margin: 0 2px;
+  color: #000;
+  border: 1px solid #dee2e6;
+  background-color: #fff;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.page-item .page-link:hover {
+  background-color: #e9ecef;
+  color: #000;
+}
+
+.page-item.active .page-link {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  color: #fff;
+}
+
+.page-item.disabled .page-link {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+/* ========= Tabel dan DataTables ========= */
 table img {
   max-width: 100px;
   height: auto;
@@ -103,7 +137,7 @@ table img {
   margin: 0 0.5rem;
 }
 
-/* ========== Responsif Mobile ========== */
+/* ========= Responsif Mobile ========= */
 @media (max-width: 576px) {
   #filterRow {
     flex-direction: column;
@@ -141,7 +175,7 @@ table img {
   }
 }
 
-/* ========== Mode Gelap ========== */
+/* ========= Mode Gelap ========= */
 body.dark-mode {
   background-color: #121212;
   color: #f1f1f1;
@@ -184,5 +218,17 @@ body.dark-mode .btn-outline-success:hover,
 body.dark-mode .btn-outline-warning:hover,
 body.dark-mode .btn-outline-dark:hover {
   background-color: #444;
+  color: #fff;
+}
+
+body.dark-mode .page-link {
+  background-color: #2a2a2a;
+  border-color: #444;
+  color: #ccc;
+}
+
+body.dark-mode .page-item.active .page-link {
+  background-color: #1e40af;
+  border-color: #1e40af;
   color: #fff;
 }
