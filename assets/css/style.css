@@ -62,8 +62,11 @@ img {
   color: #4b5563;
   margin-bottom: 0.75rem;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  display: box; /* fallback */
   -webkit-box-orient: vertical;
+  box-orient: vertical; /* fallback */
+  -webkit-line-clamp: 3;
+  line-clamp: 3; /* Not yet standardized, optional */
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -130,7 +133,7 @@ table img {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
-  
+
   table img {
     max-width: 80px;
   }
