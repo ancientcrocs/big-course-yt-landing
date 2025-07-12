@@ -1,4 +1,4 @@
-/* ========= Reset & Umum ========= */
+/* ========== RESET & UMUM ========== */
 body {
   background-color: #fff;
   color: #000;
@@ -14,14 +14,31 @@ img {
   margin-top: 1rem;
 }
 
-/* ========= Tombol Aktif (Filter Kategori) ========= */
+/* ========== ANIMASI CARD POP-UP ========== */
+@keyframes popUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.card-animate {
+  opacity: 0;
+  animation: popUp 0.4s ease-out forwards;
+}
+
+/* ========== TOMBOL AKTIF (Filter Kategori) ========== */
 .btn.active {
   color: #fff !important;
   background-color: #0d6efd !important;
   border-color: #0d6efd !important;
 }
 
-/* ========= Card (Gaya ala CasaOS) ========= */
+/* ========== CARD (CASAOS STYLE) ========== */
 .card {
   border: 1px solid #e5e7eb;
   border-radius: 1rem;
@@ -77,11 +94,17 @@ img {
 .card img.img-thumbnail {
   height: 180px;
   object-fit: cover;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
+  border-radius: 0.75rem;
+  padding: 0.5rem; 
+  margin-top : 1rem;               /* Tambahkan padding */
+  margin-left: auto;             /* Untuk horizontal centering */
+  margin-right: auto;
+  display: block;                /* Agar margin auto berfungsi */
+  background-color: transparent; /* Hilangkan latar belakang default thumbnail */
+  box-shadow: none;              /* Hilangkan shadow bawaan thumbnail */
 }
 
-/* ========= Pagination (Gaya Google) ========= */
+/* ========== PAGINATION (GAYA GOOGLE) ========== */
 .pagination {
   justify-content: center;
   flex-wrap: wrap;
@@ -115,7 +138,7 @@ img {
   opacity: 0.6;
 }
 
-/* ========= Tabel dan DataTables ========= */
+/* ========== TABEL & DATATABLES ========== */
 table img {
   max-width: 100px;
   height: auto;
@@ -137,7 +160,7 @@ table img {
   margin: 0 0.5rem;
 }
 
-/* ========= Responsif Mobile ========= */
+/* ========== RESPONSIF MOBILE ========== */
 @media (max-width: 576px) {
   #filterRow {
     flex-direction: column;
@@ -175,7 +198,7 @@ table img {
   }
 }
 
-/* ========= Mode Gelap ========= */
+/* ========== MODE GELAP ========== */
 body.dark-mode {
   background-color: #121212;
   color: #f1f1f1;

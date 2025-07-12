@@ -10,29 +10,33 @@
   <meta name="keywords" content="Big Course, YouTube edukasi, Playlist Matematika, Video Kimia, Fisika SMA" />
   <meta name="author" content="Big Course" />
 
-  <!-- Bootstrap & Custom Style -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap & Style -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
+  <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Big Course</a>
-      <button id="darkModeToggle" class="btn btn-outline-light ms-auto" title="Toggle dark mode" aria-label="Aktifkan mode gelap">🌙</button>
+      <a class="navbar-brand fw-bold" href="#">Big Course</a>
+      <button id="darkModeToggle" class="btn btn-outline-light ms-auto" title="Toggle mode gelap" aria-label="Aktifkan atau nonaktifkan mode gelap">
+        🌙
+      </button>
     </div>
   </nav>
 
+  <!-- Main Content -->
   <main class="container" id="mainContent">
     <header class="text-center mb-4">
-      <h1 class="display-5">Konten Channel YouTube Big Course</h1>
+      <h1 class="display-5 fw-bold">BIG COURSE</h1>
       <p class="lead">Temukan semua playlist dan video edukatif dari channel kami</p>
     </header>
 
     <!-- Filter dan Pencarian -->
     <section class="mb-4" aria-labelledby="filterHeading">
-      <h2 id="filterHeading" class="visually-hidden">Filter dan Cari Konten</h2>
-      <div class="row align-items-center" id="filterRow">
-        <div class="col-md-6 mb-2">
+      <h2 id="filterHeading" class="visually-hidden">Filter dan Pencarian Konten</h2>
+      <div class="row align-items-end g-3" id="filterRow">
+        <div class="col-md-6">
           <label for="categoryFilter" class="form-label">Pilih Kategori</label>
           <select id="categoryFilter" class="form-select" aria-label="Filter berdasarkan kategori">
             <option value="all">Semua Kategori</option>
@@ -43,34 +47,35 @@
             <option value="fisika">Fisika</option>
           </select>
         </div>
-        <div class="col-md-6 mb-2">
+        <div class="col-md-6">
           <label for="searchInput" class="form-label">Cari Konten</label>
-          <input type="text" id="searchInput" class="form-control" placeholder="Cari konten..." aria-label="Pencarian konten">
+          <input type="search" id="searchInput" class="form-control" placeholder="Cari judul video atau playlist..." aria-label="Pencarian konten YouTube">
         </div>
       </div>
     </section>
 
-    <!-- Daftar Konten -->
+    <!-- Daftar Kartu Konten -->
     <section aria-labelledby="contentListHeading">
       <h2 id="contentListHeading" class="visually-hidden">Daftar Playlist dan Video</h2>
       <div class="row" id="cardContainer" aria-live="polite">
-        <!-- Konten diisi lewat JavaScript -->
+        <!-- Kartu akan dirender lewat JavaScript -->
       </div>
     </section>
 
     <!-- Navigasi Halaman -->
-    <nav aria-label="Navigasi halaman" class="mt-4">
+    <nav aria-label="Navigasi halaman konten" class="mt-4">
       <ul class="pagination justify-content-center flex-wrap" id="pagination">
-        <!-- Diisi lewat JS -->
+        <!-- Pagination dinamis oleh JavaScript -->
       </ul>
     </nav>
   </main>
 
+  <!-- Footer -->
   <footer class="bg-dark text-white text-center py-3 mt-5">
-    <small>&copy; 2025 Big Course. Semua Hak Dilindungi.</small>
+    <small>&copy; 2025 <strong>Big Course</strong>. Semua Hak Dilindungi.</small>
   </footer>
 
-  <!-- Scripts dengan defer -->
+  <!-- Script -->
   <script src="https://code.jquery.com/jquery-3.7.1.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.bundle.min.js" defer></script>
   <script src="assets/js/main.js" defer></script>

@@ -3,11 +3,12 @@ let allVideos = [];
 let currentPage = 1;
 const itemsPerPage = 9;
 
+// ========== Render Card ==========
 function renderCards(items) {
   const start = (currentPage - 1) * itemsPerPage;
   const paginatedItems = items.slice(start, start + itemsPerPage);
 
-  const cardsHTML = paginatedItems.map(item => {
+  const cardsHTML = paginatedItems.map((item, index) => {
     const isVideo = !!item.id.videoId;
     const title = item.snippet.title;
     const description = item.snippet.description || '-';
@@ -22,7 +23,7 @@ function renderCards(items) {
 
     return `
       <div class="col-md-4 mb-4">
-        <div class="card h-100 shadow-sm">
+        <div class="card h-100 shadow-sm card-animate" style="animation-delay: ${index * 50}ms">
           <img src="${thumbnail}" alt="Thumbnail" width="320" height="180" class="img-thumbnail mb-2">
           <div class="card-body d-flex flex-column">
             <h5 class="card-title playlist-title">${title}</h5>
@@ -35,21 +36,15 @@ function renderCards(items) {
     `;
   }).join('');
 
-  document.getElementById('cardContainer').innerHTML = cardsHTML;
+  const container = document.getElementById('cardContainer');
+  container.innerHTML = cardsHTML;
   renderPagination(items.length);
+  smoothScrollTo(container);
 }
 
+// ========== Render Pagination ==========
 function renderPagination(totalItems) {
   const totalPages = Math.ceil(totalItems / itemsPerPage);
-  let paginationHTML = '';
-
-  // Tombol Previous
-  paginationHTML += `
-    <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
-      <button class="page-link" data-page="${currentPage - 1}" aria-label="Sebelumnya">⏪</button>
-    </li>
-  `;
-
   const maxVisible = 5;
   const half = Math.floor(maxVisible / 2);
   let start = Math.max(2, currentPage - half);
@@ -63,69 +58,64 @@ function renderPagination(totalItems) {
     end = totalPages - 1;
   }
 
-  // Selalu tampilkan halaman 1
-  paginationHTML += `
+  let html = `
+    <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
+      <button class="page-link" data-page="${currentPage - 1}" aria-label="Sebelumnya">⏪</button>
+    </li>
+
     <li class="page-item ${currentPage === 1 ? 'active' : ''}">
       <button class="page-link" data-page="1">1</button>
     </li>
   `;
 
-  // Ellipsis sebelum range
-  if (start > 2) {
-    paginationHTML += `<li class="page-item disabled"><span class="page-link">…</span></li>`;
-  }
+  if (start > 2) html += `<li class="page-item disabled"><span class="page-link">…</span></li>`;
 
-  // Range halaman tengah
   for (let i = start; i <= end; i++) {
-    paginationHTML += `
+    html += `
       <li class="page-item ${currentPage === i ? 'active' : ''}">
         <button class="page-link" data-page="${i}">${i}</button>
       </li>
     `;
   }
 
-  // Ellipsis setelah range
-  if (end < totalPages - 1) {
-    paginationHTML += `<li class="page-item disabled"><span class="page-link">…</span></li>`;
-  }
+  if (end < totalPages - 1) html += `<li class="page-item disabled"><span class="page-link">…</span></li>`;
 
-  // Halaman terakhir
   if (totalPages > 1) {
-    paginationHTML += `
+    html += `
       <li class="page-item ${currentPage === totalPages ? 'active' : ''}">
         <button class="page-link" data-page="${totalPages}">${totalPages}</button>
       </li>
     `;
   }
 
-  // Tombol Next
-  paginationHTML += `
+  html += `
     <li class="page-item ${currentPage === totalPages ? 'disabled' : ''}">
       <button class="page-link" data-page="${currentPage + 1}" aria-label="Berikutnya">⏩</button>
     </li>
   `;
 
-  document.getElementById('pagination').innerHTML = paginationHTML;
+  document.getElementById('pagination').innerHTML = html;
 }
 
+// ========== Navigasi Halaman ==========
 function goToPage(page) {
   const totalItems = [...allPlaylists, ...allVideos].length;
   const totalPages = Math.ceil(totalItems / itemsPerPage);
   if (page >= 1 && page <= totalPages) {
     currentPage = page;
-    sessionStorage.setItem('currentPage', currentPage); // SIMPAN DI SINI
+    sessionStorage.setItem('currentPage', currentPage);
     applyFilters();
   }
 }
 
+// ========== Filter dan Pencarian ==========
 function applyFilters() {
   const category = document.getElementById('categoryFilter').value;
   const search = document.getElementById('searchInput').value.toLowerCase().trim();
 
-  let filtered = category === 'playlist'
-    ? allPlaylists
-    : category === 'video'
-    ? allVideos
+  let filtered =
+    category === 'playlist' ? allPlaylists
+    : category === 'video' ? allVideos
     : [...allPlaylists, ...allVideos];
 
   if (['matematika', 'kimia', 'fisika'].includes(category)) {
@@ -143,6 +133,13 @@ function applyFilters() {
   renderCards(filtered);
 }
 
+// ========== Scroll Smooth Ke Elemen ==========
+function smoothScrollTo(el) {
+  const top = el.getBoundingClientRect().top + window.scrollY - 80;
+  window.scrollTo({ top, behavior: 'smooth' });
+}
+
+// ========== Mode Gelap ==========
 function updateDarkModeIcon() {
   const isDark = document.body.classList.contains('dark-mode');
   document.getElementById('darkModeToggle').textContent = isDark ? '☀️' : '🌙';
@@ -154,8 +151,9 @@ function toggleDarkMode() {
   updateDarkModeIcon();
 }
 
+// ========== Inisialisasi ==========
 document.addEventListener('DOMContentLoaded', () => {
-  // Mode gelap otomatis
+  // Dark mode awal
   if (
     localStorage.getItem('darkMode') === 'true' ||
     window.matchMedia('(prefers-color-scheme: dark)').matches
@@ -164,17 +162,21 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   updateDarkModeIcon();
 
-  // Ambil data JSON
+  // Ambil data
   Promise.all([
     fetch('cache/playlists.json').then(res => res.json()),
     fetch('cache/videos.json').then(res => res.json())
   ]).then(([playlists, videos]) => {
     allPlaylists = playlists;
     allVideos = videos;
+
+    const savedPage = parseInt(sessionStorage.getItem('currentPage'), 10);
+    if (!isNaN(savedPage)) currentPage = savedPage;
+
     applyFilters();
   });
 
-  // Filter kategori & pencarian
+  // Event listeners
   document.getElementById('categoryFilter').addEventListener('change', () => {
     currentPage = 1;
     applyFilters();
@@ -185,13 +187,6 @@ document.addEventListener('DOMContentLoaded', () => {
     applyFilters();
   });
 
-   // Ambil currentPage dari sessionStorage jika tersedia
-  const savedPage = parseInt(sessionStorage.getItem('currentPage'), 10);
-  if (!isNaN(savedPage)) {
-    currentPage = savedPage;
-  }
-
-  // Event pagination
   document.getElementById('pagination').addEventListener('click', (e) => {
     const btn = e.target.closest('[data-page]');
     if (btn && !btn.closest('.disabled')) {
@@ -200,6 +195,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Dark mode toggle
   document.getElementById('darkModeToggle').addEventListener('click', toggleDarkMode);
 });
