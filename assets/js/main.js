@@ -45,7 +45,7 @@ function renderCards(items) {
 // ========== Render Pagination ==========
 function renderPagination(totalItems) {
   const totalPages = Math.ceil(totalItems / itemsPerPage);
-  const maxVisible = 3;
+  const maxVisible = 2;
   const half = Math.floor(maxVisible / 2);
   let start = Math.max(2, currentPage - half);
   let end = Math.min(totalPages - 1, currentPage + half);
