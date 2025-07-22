@@ -1,6 +1,52 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "mnw8nRYy4Bc0LEhFXG-PxcSbOFE",
+    "id": "PLmMOM47Txz7vSVcF8wBPEEVmNVhxmTFZF",
+    "snippet": {
+      "publishedAt": "2025-07-22T10:04:14.727759Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "TKA Matematika",
+      "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "TKA Matematika",
+        "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika"
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "xjhRd4riAC6RLcp7pF2cLLfawWs",
     "id": "PLmMOM47Txz7syOpbHdLgVsjIN5B1rj_3J",
     "snippet": {
