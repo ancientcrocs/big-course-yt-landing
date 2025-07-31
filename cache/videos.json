@@ -35,70 +35,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "G35JRRLqdvTbfFY9OS363uI3QnI",
+    "etag": "JvHHu0fwm_3oqO0swK18JwRIvoM",
     "id": {
       "kind": "youtube#video",
-      "videoId": "6RE9-2pOT5I"
+      "videoId": "HNUqClWItlo"
     },
     "snippet": {
-      "publishedAt": "2020-08-10T01:00:03Z",
+      "publishedAt": "2020-01-07T08:17:46Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Bentuk Akar part 1 - Sifat Sifat dari Bentuk Akar",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
+      "title": "Matematika kelas XI - Suku Banyak / Polinomial (part 1) : Mencari Akar &amp; Faktor",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab Suku ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/default.jpg",
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HNUqClWItlo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-08-10T01:00:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "JKwHAKdrmmJdxaCMUX1YT6RbPSY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "D_Us9QisUNU"
-    },
-    "snippet": {
-      "publishedAt": "2021-01-29T05:04:34Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Unboxing Silver Play Button!! Terima Kasih Banyak Subscriber Setia!!",
-      "description": "Di dalam video ini, ko Ben tidak akan membahas materi, tetappi ini merupakan ucapan terima kasih dari Koko Benny dan Tim ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-01-29T05:04:34Z"
+      "publishTime": "2020-01-07T08:17:46Z"
     }
   },
   {
@@ -171,6 +137,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "JKwHAKdrmmJdxaCMUX1YT6RbPSY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "D_Us9QisUNU"
+    },
+    "snippet": {
+      "publishedAt": "2021-01-29T05:04:34Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Unboxing Silver Play Button!! Terima Kasih Banyak Subscriber Setia!!",
+      "description": "Di dalam video ini, ko Ben tidak akan membahas materi, tetappi ini merupakan ucapan terima kasih dari Koko Benny dan Tim ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D_Us9QisUNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-01-29T05:04:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "tLC5j_PB1UjdXkDwKj3FScnHqlw",
     "id": {
       "kind": "youtube#video",
@@ -201,74 +201,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2025-06-24T06:39:15Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "5z-hA5jfeKD8RGMdK1RJwQ7HuNs",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "6RT866oFQuM"
-    },
-    "snippet": {
-      "publishedAt": "2025-06-15T03:42:12Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Harga Membership Naik agar konten lebih baik!!",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6RT866oFQuM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6RT866oFQuM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6RT866oFQuM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2025-06-15T03:42:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "JvHHu0fwm_3oqO0swK18JwRIvoM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "HNUqClWItlo"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-07T08:17:46Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Suku Banyak / Polinomial (part 1) : Mencari Akar &amp; Faktor",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab Suku ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HNUqClWItlo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HNUqClWItlo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HNUqClWItlo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-07T08:17:46Z"
     }
   },
   {
@@ -307,6 +239,74 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "G35JRRLqdvTbfFY9OS363uI3QnI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6RE9-2pOT5I"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-10T01:00:03Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas X - Bentuk Akar part 1 - Sifat Sifat dari Bentuk Akar",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6RE9-2pOT5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-10T01:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "LgXPyRUEkM5xdPGV3QCjQ5y7T2Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PW2ujJB50I8"
+    },
+    "snippet": {
+      "publishedAt": "2025-07-27T10:00:37Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia Kelas XI - Hidrokarbon (kimia organik) part 9 - Latihan Alkana Alkuna Alkena",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-07-27T10:00:37Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "vud83LhuN7z7HhuGsx1r-lu2ObQ",
     "id": {
       "kind": "youtube#video",
@@ -337,40 +337,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-03-16T06:06:43Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "xSOdjGv87sPpxj1OSGODDh6d_dA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "PW2ujJB50I8"
-    },
-    "snippet": {
-      "publishedAt": "2025-07-27T10:00:37Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia Kelas XI - Hidrokarbon (kimia organik) part 9 - Latihan Alkana Alkuna Alkena",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PW2ujJB50I8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2025-07-27T10:00:37Z"
     }
   },
   {
@@ -409,36 +375,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ZqG-Mr20N9pFrL0tH6z86u-Yjjc",
+    "etag": "QUITZ6xzW7KklPMTJ8sA3K5DseQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "5ikiX0gv5w4"
+      "videoId": "U2eqQlhHyE0"
     },
     "snippet": {
-      "publishedAt": "2019-10-24T07:27:20Z",
+      "publishedAt": "2019-11-20T06:00:03Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Gerak Lurus(GLB,GLBB,GVA,GVB,GJB) part 1",
-      "description": "Apa bedanya gerak lurus beraturan dan gerak lurus berubah beraturan? Apa bedanya gerak vertikal atas dan gerak vertikal ...",
+      "title": "Fisika kelas X - Besaran, Dimensi dan Angka Penting part 1 - Penjelasan",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/default.jpg",
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2019-10-24T07:27:20Z"
+      "publishTime": "2019-11-20T06:00:03Z"
     }
   },
   {
@@ -477,40 +443,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "QUITZ6xzW7KklPMTJ8sA3K5DseQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "U2eqQlhHyE0"
-    },
-    "snippet": {
-      "publishedAt": "2019-11-20T06:00:03Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Besaran, Dimensi dan Angka Penting part 1 - Penjelasan",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/U2eqQlhHyE0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-11-20T06:00:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "sFhQotCmq4O5JnviLhMNGvSwt-k",
     "id": {
       "kind": "youtube#video",
@@ -545,70 +477,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "YTON08G-2P-Nte2frI8wqLbvHKQ",
+    "etag": "ZqG-Mr20N9pFrL0tH6z86u-Yjjc",
     "id": {
       "kind": "youtube#video",
-      "videoId": "3ilsbGGfQxs"
+      "videoId": "5ikiX0gv5w4"
     },
     "snippet": {
-      "publishedAt": "2020-03-17T09:34:12Z",
+      "publishedAt": "2019-10-24T07:27:20Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas X - Hukum Dasar Kimia part 1 : Hukum Lavoisier, Proust &amp; Dalton",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
+      "title": "Fisika kelas X - Gerak Lurus(GLB,GLBB,GVA,GVB,GJB) part 1",
+      "description": "Apa bedanya gerak lurus beraturan dan gerak lurus berubah beraturan? Apa bedanya gerak vertikal atas dan gerak vertikal ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/default.jpg",
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-17T09:34:12Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "7N8Q4s0klZKB725K1U5_Vlva4hU",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "7ye3WMx_n9s"
-    },
-    "snippet": {
-      "publishedAt": "2023-08-20T10:00:11Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika Kelas XI - Bilangan Kompleks part 1 - Definisi dan Operasi Matematika",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-08-20T10:00:11Z"
+      "publishTime": "2019-10-24T07:27:20Z"
     }
   },
   {
@@ -647,6 +545,74 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "7N8Q4s0klZKB725K1U5_Vlva4hU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7ye3WMx_n9s"
+    },
+    "snippet": {
+      "publishedAt": "2023-08-20T10:00:11Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika Kelas XI - Bilangan Kompleks part 1 - Definisi dan Operasi Matematika",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ye3WMx_n9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-08-20T10:00:11Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5nCAumzjxaPckwjRS6bMblFcC6M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "D8y8-iejawc"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-12T03:00:52Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XI - Hidrokarbon ( kimia organik ) part 1 : alkana,alkena,alkuna",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D8y8-iejawc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-12T03:00:52Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "E9TuCg71t38MYDnUTSTtjVYjdh0",
     "id": {
       "kind": "youtube#video",
@@ -681,36 +647,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "A_XuCqq9_lbd8spb3H01M1NpSmI",
+    "etag": "YTON08G-2P-Nte2frI8wqLbvHKQ",
     "id": {
       "kind": "youtube#video",
-      "videoId": "_vhWPySWRgc"
+      "videoId": "3ilsbGGfQxs"
     },
     "snippet": {
-      "publishedAt": "2021-02-18T03:51:05Z",
+      "publishedAt": "2020-03-17T09:34:12Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XI - Reaksi Penggaraman part 1 - Cara Membaca Tabel",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "title": "Kimia kelas X - Hukum Dasar Kimia part 1 : Hukum Lavoisier, Proust &amp; Dalton",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/default.jpg",
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/3ilsbGGfQxs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-02-18T03:51:05Z"
+      "publishTime": "2020-03-17T09:34:12Z"
     }
   },
   {
@@ -783,40 +749,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "5nCAumzjxaPckwjRS6bMblFcC6M",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "D8y8-iejawc"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-12T03:00:52Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XI - Hidrokarbon ( kimia organik ) part 1 : alkana,alkena,alkuna",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/D8y8-iejawc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/D8y8-iejawc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/D8y8-iejawc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-12T03:00:52Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "Eu-cbK9BKO8YAunZN75dEIyHqbI",
     "id": {
       "kind": "youtube#video",
@@ -847,40 +779,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-03-01T17:26:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "g_iFAh4yzo_3Y-neBPP_C999Mlc",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "UfI1CyL86Bc"
-    },
-    "snippet": {
-      "publishedAt": "2022-09-18T10:00:14Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XI - Thermokimia / Termokimia part 1 - Jenis Reaksi 2022",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2022-09-18T10:00:14Z"
     }
   },
   {
@@ -919,6 +817,74 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "A_XuCqq9_lbd8spb3H01M1NpSmI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_vhWPySWRgc"
+    },
+    "snippet": {
+      "publishedAt": "2021-02-18T03:51:05Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XI - Reaksi Penggaraman part 1 - Cara Membaca Tabel",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_vhWPySWRgc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-02-18T03:51:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "5z-hA5jfeKD8RGMdK1RJwQ7HuNs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "6RT866oFQuM"
+    },
+    "snippet": {
+      "publishedAt": "2025-06-15T03:42:12Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Harga Membership Naik agar konten lebih baik!!",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6RT866oFQuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6RT866oFQuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6RT866oFQuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-06-15T03:42:12Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "DytcBtcwmdTf2qSX-FsSJcMSL4M",
     "id": {
       "kind": "youtube#video",
@@ -949,74 +915,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2021-01-04T04:36:33Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "3DCPzmV3y56jw-Fn0JRsD9OezXI",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "cSseRL3ptlY"
-    },
-    "snippet": {
-      "publishedAt": "2020-08-06T01:00:06Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Eksponen / Pangkat part 1 - Dasar dasar",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-08-06T01:00:06Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "fgSGIIdwZXHgGgw6sluHBnopk_8",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "kLHRRj2COPE"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-23T06:00:18Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Vektor part 1 - Penjelasan dan Operasi Vektor",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab Vektor ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-23T06:00:18Z"
     }
   },
   {
@@ -1123,6 +1021,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "g_iFAh4yzo_3Y-neBPP_C999Mlc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UfI1CyL86Bc"
+    },
+    "snippet": {
+      "publishedAt": "2022-09-18T10:00:14Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XI - Thermokimia / Termokimia part 1 - Jenis Reaksi 2022",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UfI1CyL86Bc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-09-18T10:00:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "CA5A-zRlZxtWWHC5N709IFl7whw",
     "id": {
       "kind": "youtube#video",
@@ -1153,40 +1085,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-09-20T01:00:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "Ekk40_PMcM5ody4UblWZ0z0PS3w",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "zc5s15vzGb4"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-01T05:00:17Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia Kelas XI - Larutan Penyangga (Larutan Buffer)",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-01T05:00:17Z"
     }
   },
   {
@@ -1225,6 +1123,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "Ekk40_PMcM5ody4UblWZ0z0PS3w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zc5s15vzGb4"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-01T05:00:17Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia Kelas XI - Larutan Penyangga (Larutan Buffer)",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zc5s15vzGb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-01T05:00:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "NZ7g6iyVuog5cCwHp_r2KRD-BR0",
     "id": {
       "kind": "youtube#video",
@@ -1255,6 +1187,74 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-11-07T06:00:00Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "3DCPzmV3y56jw-Fn0JRsD9OezXI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cSseRL3ptlY"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-06T01:00:06Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas X - Eksponen / Pangkat part 1 - Dasar dasar",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cSseRL3ptlY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-06T01:00:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "fgSGIIdwZXHgGgw6sluHBnopk_8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kLHRRj2COPE"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-23T06:00:18Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas X - Vektor part 1 - Penjelasan dan Operasi Vektor",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab Vektor ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kLHRRj2COPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-23T06:00:18Z"
     }
   },
   {
@@ -1293,70 +1293,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "xptM2Sm5wQBhzjoZNkeeG-BCgZU",
+    "etag": "0TljcmrgNwookpvmkAF2nF8d8GA",
     "id": {
       "kind": "youtube#video",
-      "videoId": "vyQ5vaPlChY"
+      "videoId": "2KvwzC8cyxs"
     },
     "snippet": {
-      "publishedAt": "2019-11-13T08:30:50Z",
+      "publishedAt": "2019-10-02T06:00:00Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Barisan dan Deret Part 1 - Aritmatika",
+      "title": "Matematika kelas XII - Dimensi Tiga part 1",
       "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/default.jpg",
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2019-11-13T08:30:50Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "kBrlNVWfAdY2WSZpYgwIllNZoEw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "BpoWFzn8Dmw"
-    },
-    "snippet": {
-      "publishedAt": "2019-08-22T07:44:01Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia Kelas X - Struktur Atom dan Konfigurasi Elektron - Part 1",
-      "description": "Sering kesulitan menghafal tabel periodik?? Pada edisi kali ini, Ko Ben akan membantu kalian dalam memahami Struktur Atom ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-08-22T07:44:01Z"
+      "publishTime": "2019-10-02T06:00:00Z"
     }
   },
   {
@@ -1395,36 +1361,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "KCmCehXvJWejEbTMQ0EBdvpKpHo",
+    "etag": "xptM2Sm5wQBhzjoZNkeeG-BCgZU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "XVejARXTH2w"
+      "videoId": "vyQ5vaPlChY"
     },
     "snippet": {
-      "publishedAt": "2020-03-04T06:00:09Z",
+      "publishedAt": "2019-11-13T08:30:50Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XI - Gelombang part 1 : Gelombang Berjalan / Transversal",
-      "description": "Di soal terakhir itu persamaan simpangan nya ada +2 nya ya karena titik setimbang gelombang nya ada di y=2 Gabung ...",
+      "title": "Matematika kelas XI - Barisan dan Deret Part 1 - Aritmatika",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/XVejARXTH2w/default.jpg",
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/XVejARXTH2w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/XVejARXTH2w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vyQ5vaPlChY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2020-03-04T06:00:09Z"
+      "publishTime": "2019-11-13T08:30:50Z"
     }
   },
   {
@@ -1463,70 +1429,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "bOD83OAkvsi2p2uGlpMfhNggN2A",
+    "etag": "kBrlNVWfAdY2WSZpYgwIllNZoEw",
     "id": {
       "kind": "youtube#video",
-      "videoId": "UvifjDbvkJ8"
+      "videoId": "BpoWFzn8Dmw"
     },
     "snippet": {
-      "publishedAt": "2022-07-31T10:00:24Z",
+      "publishedAt": "2019-08-22T07:44:01Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas 11 - Dinamika Rotasi part 1 - Momen Gaya / Torsi - 2022",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "title": "Kimia Kelas X - Struktur Atom dan Konfigurasi Elektron - Part 1",
+      "description": "Sering kesulitan menghafal tabel periodik?? Pada edisi kali ini, Ko Ben akan membantu kalian dalam memahami Struktur Atom ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/default.jpg",
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BpoWFzn8Dmw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-07-31T10:00:24Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "0TljcmrgNwookpvmkAF2nF8d8GA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "2KvwzC8cyxs"
-    },
-    "snippet": {
-      "publishedAt": "2019-10-02T06:00:00Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XII - Dimensi Tiga part 1",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2KvwzC8cyxs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-10-02T06:00:00Z"
+      "publishTime": "2019-08-22T07:44:01Z"
     }
   },
   {
@@ -1599,6 +1531,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "bOD83OAkvsi2p2uGlpMfhNggN2A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UvifjDbvkJ8"
+    },
+    "snippet": {
+      "publishedAt": "2022-07-31T10:00:24Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas 11 - Dinamika Rotasi part 1 - Momen Gaya / Torsi - 2022",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UvifjDbvkJ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-07-31T10:00:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "qOAIEheAdSPc9VT4T-YV20z6dwo",
     "id": {
       "kind": "youtube#video",
@@ -1667,6 +1633,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "KCmCehXvJWejEbTMQ0EBdvpKpHo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "XVejARXTH2w"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-04T06:00:09Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XI - Gelombang part 1 : Gelombang Berjalan / Transversal",
+      "description": "Di soal terakhir itu persamaan simpangan nya ada +2 nya ya karena titik setimbang gelombang nya ada di y=2 Gabung ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XVejARXTH2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-04T06:00:09Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "lpXLCE7VvTmzsiErH5Gh7II7Ddw",
     "id": {
       "kind": "youtube#video",
@@ -1697,40 +1697,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2022-10-02T10:00:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "cscwiXBXoXv7Z7lvoeOn_WsNwL0",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "jRqDyQy5Ekc"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-29T06:00:19Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Suku banyak /  Polinomial part2 : mencari sisa dan hasil bagi",
-      "description": "pada menit 11:34 koko ada salah bicara ya maksudnya 1-1=0 bukan 1x1=0. jadi itu kan maksudnya pembagi nya pangkat 1 ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-29T06:00:19Z"
     }
   },
   {
@@ -1803,6 +1769,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "6xLS-58tNEX8ED_zYof7j32l63I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aVqoMTZUrBA"
+    },
+    "snippet": {
+      "publishedAt": "2019-09-16T06:00:02Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XI - Transformasi Geometri",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-09-16T06:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "4Vdj3fQRdGqiueojXaFo3l_KPa8",
     "id": {
       "kind": "youtube#video",
@@ -1833,6 +1833,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-10-18T01:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "cscwiXBXoXv7Z7lvoeOn_WsNwL0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jRqDyQy5Ekc"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-29T06:00:19Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XI - Suku banyak /  Polinomial part2 : mencari sisa dan hasil bagi",
+      "description": "pada menit 11:34 koko ada salah bicara ya maksudnya 1-1=0 bukan 1x1=0. jadi itu kan maksudnya pembagi nya pangkat 1 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jRqDyQy5Ekc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-29T06:00:19Z"
     }
   },
   {
@@ -1871,36 +1905,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "6xLS-58tNEX8ED_zYof7j32l63I",
+    "etag": "eH9LNjL8EQ1gcqZzAzhocXgkoeY",
     "id": {
       "kind": "youtube#video",
-      "videoId": "aVqoMTZUrBA"
+      "videoId": "Qw7FTsYPOeU"
     },
     "snippet": {
-      "publishedAt": "2019-09-16T06:00:02Z",
+      "publishedAt": "2020-01-16T06:00:58Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Transformasi Geometri",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "title": "Fisika kelas X - Dinamika Gerak Partikel part 1 - Penerapan Hukum Newton 1",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/default.jpg",
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aVqoMTZUrBA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2019-09-16T06:00:02Z"
+      "publishTime": "2020-01-16T06:00:58Z"
     }
   },
   {
@@ -1969,74 +2003,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-10-13T06:00:36Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "eH9LNjL8EQ1gcqZzAzhocXgkoeY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Qw7FTsYPOeU"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-16T06:00:58Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Dinamika Gerak Partikel part 1 - Penerapan Hukum Newton 1",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Qw7FTsYPOeU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-16T06:00:58Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "EKc5ypVCmjzdWlH8EQJ2bp3mTVA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "L4J9nZeJIa8"
-    },
-    "snippet": {
-      "publishedAt": "2020-04-20T11:41:51Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Momentum part 1 : Definisi,Impuls, Hukum Kekekalan Momentum &amp; Koefisien Restitusi",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-04-20T11:41:51Z"
     }
   },
   {
@@ -2139,6 +2105,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-11-19T06:00:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "EKc5ypVCmjzdWlH8EQJ2bp3mTVA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "L4J9nZeJIa8"
+    },
+    "snippet": {
+      "publishedAt": "2020-04-20T11:41:51Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas X - Momentum part 1 : Definisi,Impuls, Hukum Kekekalan Momentum &amp; Koefisien Restitusi",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L4J9nZeJIa8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-04-20T11:41:51Z"
     }
   },
   {
@@ -2415,40 +2415,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "NjU6gHMIAoC2CQQZdbWRZr8noDA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "KGIccyiRhRo"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-14T10:11:44Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XI - Teori Kinetik Gas part 1 - Penjelasan Teori",
-      "description": "Di dalam video ini, ko Ben akan membahas materi bab Teori Kinetik Gas dengan detail. Jadi jangan lupa tonton sampai habis, ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-14T10:11:44Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "uAM8F0krISnnM3yYp9_64D-P_9M",
     "id": {
       "kind": "youtube#video",
@@ -2513,40 +2479,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-01-26T06:00:10Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "BDTh00uS9Mc09Rg0CAf6LBihyq4",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "mRyT9VZ2B1Q"
-    },
-    "snippet": {
-      "publishedAt": "2020-07-17T06:47:22Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Gravitasi part 1 : Gaya Gravitasi dan Kuat Medan",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-07-17T06:47:22Z"
     }
   },
   {
@@ -2619,40 +2551,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "28-r9wThfSFUoV2ffg74akJgjYs",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "z3PgpoTNGRY"
-    },
-    "snippet": {
-      "publishedAt": "2024-01-28T10:00:10Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Akuntansi - Latihan Jurnal Khusus Perusahaan Dagang part 1",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2024-01-28T10:00:10Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "XvDoJa0nuYRCLR9dIWK9WZAArSo",
     "id": {
       "kind": "youtube#video",
@@ -2687,36 +2585,70 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "UKv7ZKyLTAOBzaSQy8lufPGHbEE",
+    "etag": "BDTh00uS9Mc09Rg0CAf6LBihyq4",
     "id": {
       "kind": "youtube#video",
-      "videoId": "9U-0HttsKoQ"
+      "videoId": "mRyT9VZ2B1Q"
     },
     "snippet": {
-      "publishedAt": "2019-10-07T06:00:00Z",
+      "publishedAt": "2020-07-17T06:47:22Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XII - Dimensi Tiga part 4",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
+      "title": "Fisika kelas X - Gravitasi part 1 : Gaya Gravitasi dan Kuat Medan",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mRyT9VZ2B1Q/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2019-10-07T06:00:00Z"
+      "publishTime": "2020-07-17T06:47:22Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "28-r9wThfSFUoV2ffg74akJgjYs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "z3PgpoTNGRY"
+    },
+    "snippet": {
+      "publishedAt": "2024-01-28T10:00:10Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Akuntansi - Latihan Jurnal Khusus Perusahaan Dagang part 1",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z3PgpoTNGRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-01-28T10:00:10Z"
     }
   },
   {
@@ -2857,74 +2789,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "-EMFebwba1JPCmaAv9g_4Hnwb5w",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "Bj9-PCAlOHo"
-    },
-    "snippet": {
-      "publishedAt": "2019-09-15T06:00:00Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XII - Sel Elektrolisis",
-      "description": "mohon maaf ada ralat pada menit 19:00 itu hasilnya 2NaCl --- 2Na + Cl2 Apa itu sel elektrolisis? Di dalam video ini, ko Ben akan ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-09-15T06:00:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rmfKqDoiYldvsQ0hD0xphatnuxE",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "I1Ngfdv8p48"
-    },
-    "snippet": {
-      "publishedAt": "2020-06-15T08:00:54Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XII - Teori Atom (deret lyman, balmer, paschen, bracket dan pfund) &amp; Energi atom",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-06-15T08:00:54Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "AG3l2xlUQcf6qEBWiaeT3ecSkcM",
     "id": {
       "kind": "youtube#video",
@@ -2955,6 +2819,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2022-10-23T09:00:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "-EMFebwba1JPCmaAv9g_4Hnwb5w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Bj9-PCAlOHo"
+    },
+    "snippet": {
+      "publishedAt": "2019-09-15T06:00:00Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XII - Sel Elektrolisis",
+      "description": "mohon maaf ada ralat pada menit 19:00 itu hasilnya 2NaCl --- 2Na + Cl2 Apa itu sel elektrolisis? Di dalam video ini, ko Ben akan ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bj9-PCAlOHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-09-15T06:00:00Z"
     }
   },
   {
@@ -2993,6 +2891,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "rmfKqDoiYldvsQ0hD0xphatnuxE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "I1Ngfdv8p48"
+    },
+    "snippet": {
+      "publishedAt": "2020-06-15T08:00:54Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XII - Teori Atom (deret lyman, balmer, paschen, bracket dan pfund) &amp; Energi atom",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I1Ngfdv8p48/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-06-15T08:00:54Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "HeukrlNzAyiw3GLhA5ZQJAHTsjk",
     "id": {
       "kind": "youtube#video",
@@ -3023,6 +2955,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-10-30T06:00:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "NjU6gHMIAoC2CQQZdbWRZr8noDA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KGIccyiRhRo"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-14T10:11:44Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XI - Teori Kinetik Gas part 1 - Penjelasan Teori",
+      "description": "Di dalam video ini, ko Ben akan membahas materi bab Teori Kinetik Gas dengan detail. Jadi jangan lupa tonton sampai habis, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KGIccyiRhRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-14T10:11:44Z"
     }
   },
   {
@@ -3061,40 +3027,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "xhu3MZ4wV2RnSPGrV-dtuT0oO60",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "jil0wif5GWw"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-11T09:14:03Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XI - Bunyi part 1 : Sumber &amp; Alat Bunyi",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jil0wif5GWw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jil0wif5GWw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jil0wif5GWw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-11T09:14:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "z6-6zyIZAD-Q5qwVqUKJ87qmU0Q",
     "id": {
       "kind": "youtube#video",
@@ -3129,36 +3061,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "x5lwkK_Fc_GShinSmduBh4pavT0",
+    "etag": "UKv7ZKyLTAOBzaSQy8lufPGHbEE",
     "id": {
       "kind": "youtube#video",
-      "videoId": "AjWdM0JreC0"
+      "videoId": "9U-0HttsKoQ"
     },
     "snippet": {
-      "publishedAt": "2021-02-01T13:10:00Z",
+      "publishedAt": "2019-10-07T06:00:00Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas X - Larutan Elektrolit dan Non Elektrolit",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
+      "title": "Matematika kelas XII - Dimensi Tiga part 4",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/default.jpg",
+          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9U-0HttsKoQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2021-02-01T13:10:00Z"
+      "publishTime": "2019-10-07T06:00:00Z"
     }
   },
   {
@@ -3231,40 +3163,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "iNO2Ja8ktCrsG_ZAgZE4J1QGFBk",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "QmLPqlA44yY"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-31T05:38:43Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Getaran Harmonik Sederhana part 1 - Teori Pegas &amp; Getaran Harmonik Sederhana",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-31T05:38:43Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "G_xS5Lo2aK2PlQtP5K97WvP61t4",
     "id": {
       "kind": "youtube#video",
@@ -3299,36 +3197,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "IrwwxtctdAaGzPmatUaz5emSGYg",
+    "etag": "x5lwkK_Fc_GShinSmduBh4pavT0",
     "id": {
       "kind": "youtube#video",
-      "videoId": "HEUDGXvmJ4Q"
+      "videoId": "AjWdM0JreC0"
     },
     "snippet": {
-      "publishedAt": "2022-12-04T10:38:17Z",
+      "publishedAt": "2021-02-01T13:10:00Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XI - Suhu &amp; Kalor part 1 - Konversi Suhu / Thermometer",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "title": "Kimia kelas X - Larutan Elektrolit dan Non Elektrolit",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/default.jpg",
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AjWdM0JreC0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-12-04T10:38:17Z"
+      "publishTime": "2021-02-01T13:10:00Z"
     }
   },
   {
@@ -3367,36 +3265,104 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "lOlvOK9r3ePxIp5PSiWEbnzrxJ4",
+    "etag": "xhu3MZ4wV2RnSPGrV-dtuT0oO60",
     "id": {
       "kind": "youtube#video",
-      "videoId": "oLb6YhkSU74"
+      "videoId": "jil0wif5GWw"
     },
     "snippet": {
-      "publishedAt": "2023-07-16T03:00:25Z",
+      "publishedAt": "2020-03-11T09:14:03Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Program Membership di Channel ini",
-      "description": "Mari bergabung di Member Channel BIG Course, klik link dibawah ini ...",
+      "title": "Fisika kelas XI - Bunyi part 1 : Sumber &amp; Alat Bunyi",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/default.jpg",
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jil0wif5GWw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2023-07-16T03:00:25Z"
+      "publishTime": "2020-03-11T09:14:03Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tt37II3PlWSLMlIKevANBgH2Oqo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "QmLPqlA44yY"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-31T05:38:43Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas X - Getaran Harmonik Sederhana part 1 - Teori Pegas &amp; Getaran Harmonik Sederhana",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QmLPqlA44yY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-31T05:38:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "IrwwxtctdAaGzPmatUaz5emSGYg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HEUDGXvmJ4Q"
+    },
+    "snippet": {
+      "publishedAt": "2022-12-04T10:38:17Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XI - Suhu &amp; Kalor part 1 - Konversi Suhu / Thermometer",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HEUDGXvmJ4Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-12-04T10:38:17Z"
     }
   },
   {
@@ -3431,6 +3397,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-10-01T06:00:05Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "lOlvOK9r3ePxIp5PSiWEbnzrxJ4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "oLb6YhkSU74"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-16T03:00:25Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Program Membership di Channel ini",
+      "description": "Mari bergabung di Member Channel BIG Course, klik link dibawah ini ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oLb6YhkSU74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-16T03:00:25Z"
     }
   },
   {
@@ -3567,40 +3567,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-08-27T01:00:02Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "oFqLgg5NyjBK1KlwatEgte3k51Q",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "yrRDjXFGNkI"
-    },
-    "snippet": {
-      "publishedAt": "2024-12-25T11:02:45Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Season&#39;s Greeting by Ko Benny",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2024-12-25T11:02:45Z"
     }
   },
   {
@@ -3843,6 +3809,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "oFqLgg5NyjBK1KlwatEgte3k51Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "yrRDjXFGNkI"
+    },
+    "snippet": {
+      "publishedAt": "2024-12-25T11:02:45Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Season&#39;s Greeting by Ko Benny",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-12-25T11:02:45Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "5TY6_i7DEoD5M3d9u8OajamEN_4",
     "id": {
       "kind": "youtube#video",
@@ -3945,40 +3945,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "yl6-YjSXpI1JB5bo5_BzaxzYdRQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "OzLNHkztfiw"
-    },
-    "snippet": {
-      "publishedAt": "2023-09-24T10:00:10Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika XI - Integral Tertentu part 1 - Pembuktian Sifat Dasar 1",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-09-24T10:00:10Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "AuNOStpwKTNKAZBjoa99kw1W0XI",
     "id": {
       "kind": "youtube#video",
@@ -4009,6 +3975,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2025-03-31T06:51:33Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "yl6-YjSXpI1JB5bo5_BzaxzYdRQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "OzLNHkztfiw"
+    },
+    "snippet": {
+      "publishedAt": "2023-09-24T10:00:10Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika XI - Integral Tertentu part 1 - Pembuktian Sifat Dasar 1",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OzLNHkztfiw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-09-24T10:00:10Z"
     }
   },
   {
@@ -4149,7 +4149,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "S1q1b8XiEJkuNP7-6fNbXJtF-LI",
+    "etag": "KD9CLmFPx8qJi_qyCr8bi4k3XYY",
     "id": {
       "kind": "youtube#video",
       "videoId": "aJHZh7dtS7o"
@@ -4183,7 +4183,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "D4iwLZ3fVl7w-Jz2-TMdOpMVj-Y",
+    "etag": "nQfF4W0jjuSrnM3f2Bb7Xbr7wb0",
     "id": {
       "kind": "youtube#video",
       "videoId": "LdyCOaP44lE"
@@ -4217,7 +4217,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ikiM-I2VCpHLv-nh23Wh7RJ_Dlo",
+    "etag": "L9wrZLoQFtDn2rKIBzwyHMgnMEA",
     "id": {
       "kind": "youtube#video",
       "videoId": "fDrm0R4g86E"
