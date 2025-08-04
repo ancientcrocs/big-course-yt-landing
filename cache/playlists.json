@@ -2910,7 +2910,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "ey9-alpcCy-Fhhw4Sq47leZSBxE",
+    "etag": "CBQeFufw81F1d8d1QtEeIOcU8D4",
     "id": "PLmMOM47Txz7u2UvJjaSKxEpIzTMyHxHei",
     "snippet": {
       "publishedAt": "2022-11-03T13:04:28.324151Z",
@@ -2946,7 +2946,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 5
+      "itemCount": 4
     }
   },
   {
@@ -4787,7 +4787,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "cOfnvTwhE101wRVbhIdHVKdGRP0",
+    "etag": "lmFLj0_0E1LT5dyof0As9_Kn3Bw",
     "id": "PLmMOM47Txz7uvf9TdoeDbFwB9qSY7THMu",
     "snippet": {
       "publishedAt": "2019-11-06T06:01:37.470767Z",
@@ -4828,7 +4828,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3
+      "itemCount": 4
     }
   },
   {
