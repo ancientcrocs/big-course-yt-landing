@@ -1,13 +1,13 @@
 [
   {
     "kind": "youtube#playlist",
-    "etag": "CmiEkQzPNalk8uWxGLo6mDsPkpA",
+    "etag": "T-M5Yg70UW25QLvOC6cmKtUML1g",
     "id": "PLmMOM47Txz7vSVcF8wBPEEVmNVhxmTFZF",
     "snippet": {
       "publishedAt": "2025-07-22T10:04:14.727759Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
       "title": "TKA",
-      "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika",
+      "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika umum, matematika lanjut, fisika dan kimia",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/4rPIpRTEhfY/default.jpg",
@@ -38,11 +38,11 @@
       "channelTitle": "BIG Course",
       "localized": {
         "title": "TKA",
-        "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika"
+        "description": "Playlist latihan soal untuk persiapan Tes Kemampuan Akademik 2025-2026 untuk mata pelajaran matematika umum, matematika lanjut, fisika dan kimia"
       }
     },
     "contentDetails": {
-      "itemCount": 5
+      "itemCount": 7
     }
   },
   {
