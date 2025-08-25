@@ -2414,7 +2414,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "NjjvLCG9GdTwSnQqEtw5O8FBwms",
+    "etag": "6eSeEozY4UaguolYC36bjMXenZI",
     "id": "PLmMOM47Txz7tEd9RhTDywkXj-jiTcNFLh",
     "snippet": {
       "publishedAt": "2023-05-30T03:54:04.101281Z",
@@ -2455,7 +2455,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 8
+      "itemCount": 9
     }
   },
   {
