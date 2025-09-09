@@ -1,6 +1,52 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "H-QAPigfIi7pOMaNb-g6E1W-JAQ",
+    "id": "PLmMOM47Txz7vL2GIPi-jfxJcjQJ4AtTO_",
+    "snippet": {
+      "publishedAt": "2025-09-09T02:40:23.977016Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Persamaan Garis Singgung",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FDxjlgMJUEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FDxjlgMJUEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FDxjlgMJUEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FDxjlgMJUEc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FDxjlgMJUEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Persamaan Garis Singgung",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 5
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "T-M5Yg70UW25QLvOC6cmKtUML1g",
     "id": "PLmMOM47Txz7vSVcF8wBPEEVmNVhxmTFZF",
     "snippet": {
@@ -993,7 +1039,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "-F_MWGEWop2KAuvp9OEI2pfCN6U",
+    "etag": "oDKs2ihND8vpD-E9EOrBHlxhBp8",
     "id": "PLmMOM47Txz7u7ATjrivskX-uufCOwTA6b",
     "snippet": {
       "publishedAt": "2023-07-20T12:38:19.844535Z",
@@ -1034,7 +1080,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 6
+      "itemCount": 7
     }
   },
   {
@@ -2460,12 +2506,12 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Qx1ygMy_OXI_x9Lqk1LIXLhEP7k",
+    "etag": "8ObBZqEaet_xHTJL6371K0vRuIw",
     "id": "PLmMOM47Txz7ux9DRWqrB7eIMAg0x-P5Zj",
     "snippet": {
       "publishedAt": "2023-05-22T11:33:50.172955Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Irisan Kerucut Matematika XI",
+      "title": "Lingkaran & Irisan Kerucut Matematika XI",
       "description": "",
       "thumbnails": {
         "default": {
@@ -2496,7 +2542,7 @@
       },
       "channelTitle": "BIG Course",
       "localized": {
-        "title": "Irisan Kerucut Matematika XI",
+        "title": "Lingkaran & Irisan Kerucut Matematika XI",
         "description": ""
       }
     },
@@ -3084,7 +3130,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "xKzyaMEkQi9XErZKI7zdNLq7BkI",
+    "etag": "jBz-sKM0yIFdiP95mksaTO32dO8",
     "id": "PLmMOM47Txz7toBFxd_RFuZI1b_hAPlNZp",
     "snippet": {
       "publishedAt": "2022-11-03T12:56:54.195151Z",
@@ -3125,7 +3171,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 10
+      "itemCount": 11
     }
   },
   {
