@@ -137,40 +137,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Y0D0MT2DIsf_wreAq0UzdHuS4DA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "IsUZO77OitQ"
-    },
-    "snippet": {
-      "publishedAt": "2024-06-14T10:00:28Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "TERIMA KASIH.....",
-      "description": "Terima kasih adik adik telah menjadi audiens setia dan bahkan sudah menjadi member di channel ini. Sekarang saatnya masa ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2024-06-14T10:00:28Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "xfpKG3E1FCqEZnrtLhNpSWBMijE",
     "id": {
       "kind": "youtube#video",
@@ -239,6 +205,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "VoYqqJVMHWyEyMdb8DZvzJm24j4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hmgL-AkefAA"
+    },
+    "snippet": {
+      "publishedAt": "2024-09-10T09:00:42Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas X - Kinematika Fisika part 3 - Latihan Soal Gerak Parabola",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hmgL-AkefAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hmgL-AkefAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hmgL-AkefAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-09-10T09:00:42Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "cFyXndLHZJy76Ah3tujOHjej--I",
     "id": {
       "kind": "youtube#video",
@@ -303,40 +303,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-08-10T01:00:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "tLC5j_PB1UjdXkDwKj3FScnHqlw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "KVVGDJNRkEc"
-    },
-    "snippet": {
-      "publishedAt": "2025-06-24T06:39:15Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Sampai Jumpa...",
-      "description": "Terima kasih adik adik telah menjadi audiens setia dan bahkan sudah menjadi member di channel ini. Sekarang saatnya masa ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2025-06-24T06:39:15Z"
     }
   },
   {
@@ -473,6 +439,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-03-09T06:00:07Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Y0D0MT2DIsf_wreAq0UzdHuS4DA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IsUZO77OitQ"
+    },
+    "snippet": {
+      "publishedAt": "2024-06-14T10:00:28Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "TERIMA KASIH.....",
+      "description": "Terima kasih adik adik telah menjadi audiens setia dan bahkan sudah menjadi member di channel ini. Sekarang saatnya masa ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IsUZO77OitQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-06-14T10:00:28Z"
     }
   },
   {
@@ -813,6 +813,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-12-10T09:43:18Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tLC5j_PB1UjdXkDwKj3FScnHqlw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KVVGDJNRkEc"
+    },
+    "snippet": {
+      "publishedAt": "2025-06-24T06:39:15Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sampai Jumpa...",
+      "description": "Terima kasih adik adik telah menjadi audiens setia dan bahkan sudah menjadi member di channel ini. Sekarang saatnya masa ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KVVGDJNRkEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-06-24T06:39:15Z"
     }
   },
   {
@@ -2483,7 +2517,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "i3QXF2T53DI72YLjXXiFumkOJqU",
+    "etag": "BHI99QgmKhLW-_zhB4gOPGunqqw",
     "id": {
       "kind": "youtube#video",
       "videoId": "hbcW8K40DzA"
@@ -2547,6 +2581,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2021-02-28T01:00:14Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "JMZgEsHQu1bwMK3N577yzDdNdB0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "NZuHmRXXDBs"
+    },
+    "snippet": {
+      "publishedAt": "2022-01-30T01:00:09Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika Kelas X - Dinamika Gerak Partikel part 4 - Cara Memahami Soal",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Fisika bab ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NZuHmRXXDBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NZuHmRXXDBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NZuHmRXXDBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2022-01-30T01:00:09Z"
     }
   },
   {
@@ -2891,36 +2959,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "fSJRwSBDxtF6GWmy1YVV2VOFS7E",
+    "etag": "wVQhuUeXvimnsAwgpDIMizYlriU",
     "id": {
       "kind": "youtube#video",
-      "videoId": "4Dvf-kaxvYM"
+      "videoId": "Rgq-EA1UtKc"
     },
     "snippet": {
-      "publishedAt": "2022-07-24T06:00:02Z",
+      "publishedAt": "2025-08-03T10:25:22Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XII - Turunan Trigonometri part 1 - Rumus Dasar dan Berpangkat - 2022",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "title": "TKA Matematika Umum Kelas XII Part 1",
+      "description": "Di dalam video ini, ko Ben akan membahas soal-soal (TKA) Tes Kemampuan Akademik Matematika Umum. Jadi jangan lupa ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/default.jpg",
+          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2022-07-24T06:00:02Z"
+      "publishTime": "2025-08-03T10:25:22Z"
     }
   },
   {
@@ -2959,36 +3027,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "wVQhuUeXvimnsAwgpDIMizYlriU",
+    "etag": "fSJRwSBDxtF6GWmy1YVV2VOFS7E",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Rgq-EA1UtKc"
+      "videoId": "4Dvf-kaxvYM"
     },
     "snippet": {
-      "publishedAt": "2025-08-03T10:25:22Z",
+      "publishedAt": "2022-07-24T06:00:02Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "TKA Matematika Umum Kelas XII Part 1",
-      "description": "Di dalam video ini, ko Ben akan membahas soal-soal (TKA) Tes Kemampuan Akademik Matematika Umum. Jadi jangan lupa ...",
+      "title": "Matematika kelas XII - Turunan Trigonometri part 1 - Rumus Dasar dan Berpangkat - 2022",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/default.jpg",
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Rgq-EA1UtKc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4Dvf-kaxvYM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2025-08-03T10:25:22Z"
+      "publishTime": "2022-07-24T06:00:02Z"
     }
   },
   {
@@ -3231,7 +3299,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ddrl2h0NBVMoG7LQRLCYrURY8m8",
+    "etag": "tTJ8DWvmIDKL-cdeM5VjyJScE7U",
     "id": {
       "kind": "youtube#video",
       "videoId": "4lMUpkltJ2I"
@@ -3333,40 +3401,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "p3SrTJUYE_5ccdTMsnQ3jQhISVY",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "n77qGzyhfd4"
-    },
-    "snippet": {
-      "publishedAt": "2020-01-18T07:00:31Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XII - Fisika Kuantum part 1 - Penjelasan Teori dan Rumus",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-01-18T07:00:31Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "8XaVpfAOpG_PcM8ge_LXGe8zFf8",
     "id": {
       "kind": "youtube#video",
@@ -3397,6 +3431,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-08-27T01:00:02Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "O-BN-ELmpPxwDwJtb3kqCe4oCuQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "n77qGzyhfd4"
+    },
+    "snippet": {
+      "publishedAt": "2020-01-18T07:00:31Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XII - Fisika Kuantum part 1 - Penjelasan Teori dan Rumus",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n77qGzyhfd4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-01-18T07:00:31Z"
     }
   },
   {
@@ -3741,74 +3809,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "GtIPP_1XOXA0_KvWQq3S5jVJESw",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "UAgNXMd7UMM"
-    },
-    "snippet": {
-      "publishedAt": "2019-10-16T06:08:58Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XII - Induksi Elektromagnetik / Imbas Elektromagnetik / GGL (ralat:baca description)",
-      "description": "[RALAT] Pada menit 28:00 terdapat salah ketik pada soal, yaitu 58 cm seharusnya 50 cm. Pada menit 29:40 itu yang diketikan ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-10-16T06:08:58Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "rT0D7y_wMlKY6uZJm2VSAfVve8c",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "MTNMnbzfYZ4"
-    },
-    "snippet": {
-      "publishedAt": "2020-11-22T13:22:51Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas XI - Limit Kontinu Diskontinu - Definisi dan Cara Pengerjaan Rumus &amp; Grafik",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-11-22T13:22:51Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "uAM8F0krISnnM3yYp9_64D-P_9M",
     "id": {
       "kind": "youtube#video",
@@ -3877,6 +3877,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "GtIPP_1XOXA0_KvWQq3S5jVJESw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UAgNXMd7UMM"
+    },
+    "snippet": {
+      "publishedAt": "2019-10-16T06:08:58Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XII - Induksi Elektromagnetik / Imbas Elektromagnetik / GGL (ralat:baca description)",
+      "description": "[RALAT] Pada menit 28:00 terdapat salah ketik pada soal, yaitu 58 cm seharusnya 50 cm. Pada menit 29:40 itu yang diketikan ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UAgNXMd7UMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-10-16T06:08:58Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "cscwiXBXoXv7Z7lvoeOn_WsNwL0",
     "id": {
       "kind": "youtube#video",
@@ -3907,6 +3941,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-01-29T06:00:19Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rT0D7y_wMlKY6uZJm2VSAfVve8c",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "MTNMnbzfYZ4"
+    },
+    "snippet": {
+      "publishedAt": "2020-11-22T13:22:51Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas XI - Limit Kontinu Diskontinu - Definisi dan Cara Pengerjaan Rumus &amp; Grafik",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MTNMnbzfYZ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-11-22T13:22:51Z"
     }
   },
   {
@@ -4013,7 +4081,7 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "5TY6_i7DEoD5M3d9u8OajamEN_4",
+    "etag": "t35S6i_X4Aqf0YwJ5qNtkL4oUU4",
     "id": {
       "kind": "youtube#video",
       "videoId": "qWKllyKS2dU"
@@ -4149,36 +4217,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "oFqLgg5NyjBK1KlwatEgte3k51Q",
+    "etag": "57B-ck9QAhW-A63aqmCs6_yHgSk",
     "id": {
       "kind": "youtube#video",
-      "videoId": "yrRDjXFGNkI"
+      "videoId": "iWgj6oTVxwI"
     },
     "snippet": {
-      "publishedAt": "2024-12-25T11:02:45Z",
+      "publishedAt": "2025-08-10T09:30:33Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Season&#39;s Greeting by Ko Benny",
+      "title": "Fisika kelas X - Momentum part 4 - Latihan Momentum dan Impuls",
       "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/default.jpg",
+          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2024-12-25T11:02:45Z"
+      "publishTime": "2025-08-10T09:30:33Z"
     }
   },
   {
@@ -4217,41 +4285,41 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "57B-ck9QAhW-A63aqmCs6_yHgSk",
+    "etag": "oFqLgg5NyjBK1KlwatEgte3k51Q",
     "id": {
       "kind": "youtube#video",
-      "videoId": "iWgj6oTVxwI"
+      "videoId": "yrRDjXFGNkI"
     },
     "snippet": {
-      "publishedAt": "2025-08-10T09:30:33Z",
+      "publishedAt": "2024-12-25T11:02:45Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas X - Momentum part 4 - Latihan Momentum dan Impuls",
+      "title": "Season&#39;s Greeting by Ko Benny",
       "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/default.jpg",
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iWgj6oTVxwI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yrRDjXFGNkI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2025-08-10T09:30:33Z"
+      "publishTime": "2024-12-25T11:02:45Z"
     }
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "nQfF4W0jjuSrnM3f2Bb7Xbr7wb0",
+    "etag": "3JSKSUrjaGLcl8wYNjQzl5fgpxY",
     "id": {
       "kind": "youtube#video",
       "videoId": "LdyCOaP44lE"
