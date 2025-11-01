@@ -1,6 +1,52 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "fUnXGZ31meyjguUGvFGCRdysP-w",
+    "id": "PLmMOM47Txz7uu4mPsvdIytxIdAE12kBag",
+    "snippet": {
+      "publishedAt": "2025-10-19T07:57:48.679363Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Sel Elektrokimia XII",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZPeOTIDpsiI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Sel Elektrokimia XII",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 8
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "Se78Id3mgkosLxa4ENOiT76UJ9Y",
     "id": "PLmMOM47Txz7vL2GIPi-jfxJcjQJ4AtTO_",
     "snippet": {
@@ -47,7 +93,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "d7se-Vzyei4YHJ8UuHhyIqZ545Y",
+    "etag": "lnly27htDBh4y_ZXfFtJ8M-Pcyk",
     "id": "PLmMOM47Txz7vSVcF8wBPEEVmNVhxmTFZF",
     "snippet": {
       "publishedAt": "2025-07-22T10:04:14.727759Z",
@@ -88,7 +134,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 11
+      "itemCount": 17
     }
   },
   {
