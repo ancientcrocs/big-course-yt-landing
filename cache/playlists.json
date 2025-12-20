@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlist",
-    "etag": "6Mi8YdvYPenEBb4I7hYR2y1Vxek",
+    "etag": "cmw4mezW93VHeVtc_b1XNtqPprw",
     "id": "PLmMOM47Txz7tC1MT3OuV7IfxrEWRRM9Ub",
     "snippet": {
       "publishedAt": "2025-11-11T01:25:53.934584Z",
@@ -42,7 +42,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1
+      "itemCount": 2
     }
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "NNlAPDnuYv0oED1r8o8IcDeblKE",
+    "etag": "0HB2Lrfhqcz6JrUAkhfZ6h3hDIQ",
     "id": "PLmMOM47Txz7s7QrnnF1LCDrqSbTrpHWJq",
     "snippet": {
       "publishedAt": "2024-12-07T07:43:32.416549Z",
@@ -240,27 +240,27 @@
       "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Pengetahuan Kuantitatif",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/default.jpg",
+          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/g_qVwFH1d0s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -272,7 +272,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 5
+      "itemCount": 6
     }
   },
   {
@@ -507,7 +507,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "wDLLKE2bkl_6Jgwae8gfY7Rbolg",
+    "etag": "QU0ZYay6L7Q8WzErJFEYax7uK04",
     "id": "PLmMOM47Txz7vA5xO1KPNLAaJUcwdjfUN-",
     "snippet": {
       "publishedAt": "2023-07-20T12:58:04.916512Z",
@@ -548,7 +548,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 2
+      "itemCount": 3
     }
   },
   {
@@ -1039,7 +1039,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "44IubU4kGG1JYFIUR56dodnT3dM",
+    "etag": "YEvcM4w5ZnqSfIW11VWhBd3QW_o",
     "id": "PLmMOM47Txz7u26q2PMOoNj7P7A127Cijl",
     "snippet": {
       "publishedAt": "2023-07-20T12:39:28.607431Z",
@@ -1080,7 +1080,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 5
+      "itemCount": 6
     }
   },
   {
@@ -1545,12 +1545,12 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "g6gucejiTqTvk4QihdTVSq1erMw",
+    "etag": "GsmUqngbSRbp9wzZ9Y9LNAX-ogY",
     "id": "PLmMOM47Txz7uKYWbA7ghX1OCykjly-rLG",
     "snippet": {
       "publishedAt": "2023-07-20T07:13:10.597751Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Redoks Lanjuta Kimia XII",
+      "title": "Redoks Lanjutan Kimia 12",
       "description": "",
       "thumbnails": {
         "default": {
@@ -1576,12 +1576,12 @@
       },
       "channelTitle": "BIG Course",
       "localized": {
-        "title": "Redoks Lanjuta Kimia XII",
+        "title": "Redoks Lanjutan Kimia 12",
         "description": ""
       }
     },
     "contentDetails": {
-      "itemCount": 4
+      "itemCount": 5
     }
   },
   {
@@ -3841,7 +3841,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "MS6soR9VGhTdrvtsQ6XffHtX3n4",
+    "etag": "ZlNkCoAnkVScRQsFQW78Fd18_VM",
     "id": "PLmMOM47Txz7tockRyt8WBcaR9A74E2GyB",
     "snippet": {
       "publishedAt": "2022-11-03T09:13:51.396414Z",
@@ -3877,17 +3877,17 @@
       }
     },
     "contentDetails": {
-      "itemCount": 7
+      "itemCount": 8
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "iiHaWXVs7hvshMd9rXci-w6gATs",
+    "etag": "jWZjwk51U7R09Z2LO0BmAecaPVs",
     "id": "PLmMOM47Txz7v6eJp2kUnGHb3eU2IItkQY",
     "snippet": {
       "publishedAt": "2022-11-03T09:13:09.922399Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Redoks Kimia X",
+      "title": "Redoks Kimia 10",
       "description": "",
       "thumbnails": {
         "default": {
@@ -3918,7 +3918,7 @@
       },
       "channelTitle": "BIG Course",
       "localized": {
-        "title": "Redoks Kimia X",
+        "title": "Redoks Kimia 10",
         "description": ""
       }
     },
