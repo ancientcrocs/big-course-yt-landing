@@ -1,6 +1,98 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "-8qJ_Zf-CwZA2HmHiLy0p4Ob-7s",
+    "id": "PLmMOM47Txz7t57gtOJoXslvkbmA9BY9j8",
+    "snippet": {
+      "publishedAt": "2026-01-18T09:09:49.269638Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Gerak Parabola Fisika",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mBepJDLdO2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Gerak Parabola Fisika",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 3
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "h_EFUUG1fKH1ffd2UM_hzrfrXEE",
+    "id": "PLmMOM47Txz7udy0i56A8UA89n-OkUN1QK",
+    "snippet": {
+      "publishedAt": "2026-01-18T09:08:32.961108Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kinematika Gerak Fisika",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ikiX0gv5w4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Kinematika Gerak Fisika",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 4
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "cmw4mezW93VHeVtc_b1XNtqPprw",
     "id": "PLmMOM47Txz7tC1MT3OuV7IfxrEWRRM9Ub",
     "snippet": {
@@ -231,7 +323,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "0HB2Lrfhqcz6JrUAkhfZ6h3hDIQ",
+    "etag": "m8Nw0yvuhK2Xr5rwcSBH5HaKKZw",
     "id": "PLmMOM47Txz7s7QrnnF1LCDrqSbTrpHWJq",
     "snippet": {
       "publishedAt": "2024-12-07T07:43:32.416549Z",
@@ -240,27 +332,27 @@
       "description": "Latihan soal dan penalaran UTBK dan SNBT tentang Pengetahuan Kuantitatif",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/default.jpg",
+          "url": "https://i.ytimg.com/vi/KUcMWfN9lyI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KUcMWfN9lyI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KUcMWfN9lyI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/KUcMWfN9lyI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/LnwtB7fSabk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KUcMWfN9lyI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -272,7 +364,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 6
+      "itemCount": 8
     }
   },
   {
@@ -962,7 +1054,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "iCmKps5PQwRNcOT6i3KsSXpPEPw",
+    "etag": "naHSegGJPVrvLz-yvIEOZC7kfUI",
     "id": "PLmMOM47Txz7v4dSohQDIhHMLzXSDXVUJN",
     "snippet": {
       "publishedAt": "2023-07-20T12:42:35.841567Z",
@@ -993,7 +1085,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 6
+      "itemCount": 8
     }
   },
   {
@@ -3089,7 +3181,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "hUT0mR_bSYrIR_5H7bnI0htIiZ4",
+    "etag": "eR-7R3_s2mHMCe96x3c2cX4t_Tk",
     "id": "PLmMOM47Txz7sB2SqmKg9L8ngQfLDnMv7Z",
     "snippet": {
       "publishedAt": "2022-11-03T13:02:56.981494Z",
@@ -3130,7 +3222,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 7
+      "itemCount": 8
     }
   },
   {
