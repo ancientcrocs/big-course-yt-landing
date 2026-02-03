@@ -1,6 +1,74 @@
 [
   {
     "kind": "youtube#searchResult",
+    "etag": "OgqW-UQoTeNi-onzP3zgMTi6bQ4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N-c93dQFk8s"
+    },
+    "snippet": {
+      "publishedAt": "2026-01-25T10:30:24Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas 10 - Trigonometri dasar part 14 - Latihan Persiapan Ulangan",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N-c93dQFk8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N-c93dQFk8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N-c93dQFk8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2026-01-25T10:30:24Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "15wJdTePcukguNhjfxtQGP_azWA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DiZmTxIpNc0"
+    },
+    "snippet": {
+      "publishedAt": "2026-02-01T10:00:16Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "UTBK / SNBT Pengetahuan Kuantitatif Part 8",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DiZmTxIpNc0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DiZmTxIpNc0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DiZmTxIpNc0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2026-02-01T10:00:16Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "3bT2hd0js2MyeN-43qG1xdqBDA0",
     "id": {
       "kind": "youtube#video",
@@ -171,40 +239,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ALaivmU5qLIvwz4vFN4-LQye-MA",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "LPSivVeE7Lk"
-    },
-    "snippet": {
-      "publishedAt": "2020-08-23T01:00:03Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Sistem Persamaan Linear dan Kuadrat (SPLKDV)",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-08-23T01:00:03Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "JKwHAKdrmmJdxaCMUX1YT6RbPSY",
     "id": {
       "kind": "youtube#video",
@@ -235,6 +269,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2021-01-29T05:04:34Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ALaivmU5qLIvwz4vFN4-LQye-MA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LPSivVeE7Lk"
+    },
+    "snippet": {
+      "publishedAt": "2020-08-23T01:00:03Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas X - Sistem Persamaan Linear dan Kuadrat (SPLKDV)",
+      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LPSivVeE7Lk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-08-23T01:00:03Z"
     }
   },
   {
@@ -303,6 +371,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2025-12-14T10:15:01Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "ySNhKuD3pfhzKmpwP4Foz8WfQyc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Jn2DP_mtITU"
+    },
+    "snippet": {
+      "publishedAt": "2025-03-09T12:57:16Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika kelas X - Trigonometri dasar part 13 - Pembuktian identitas",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-03-09T12:57:16Z"
     }
   },
   {
@@ -409,40 +511,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Rz27w75A9EUj8cAYpRdXR8CASV8",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "vC6-W4Q0v6s"
-    },
-    "snippet": {
-      "publishedAt": "2019-09-25T06:00:06Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Fisika kelas XI - Fluida Statis Part 1",
-      "description": "Apa itu Gaya Hidrostatis? Bagaimana cara mencarinya? Bagaimana mencari tekanan hidrostatis pada pipa U?? Di dalam video ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-09-25T06:00:06Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "PMm5Yk8uncgyTPQxfta8osEvd3w",
     "id": {
       "kind": "youtube#video",
@@ -473,6 +541,40 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-03-16T06:06:43Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "Rz27w75A9EUj8cAYpRdXR8CASV8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vC6-W4Q0v6s"
+    },
+    "snippet": {
+      "publishedAt": "2019-09-25T06:00:06Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Fisika kelas XI - Fluida Statis Part 1",
+      "description": "Apa itu Gaya Hidrostatis? Bagaimana cara mencarinya? Bagaimana mencari tekanan hidrostatis pada pipa U?? Di dalam video ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vC6-W4Q0v6s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2019-09-25T06:00:06Z"
     }
   },
   {
@@ -511,40 +613,6 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "Cd5Eijb_RBPABRN4MFX71M_cCuQ",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "zX6Xnr-Qgmc"
-    },
-    "snippet": {
-      "publishedAt": "2020-03-01T17:26:25Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas XI - Hidrolisis Garam",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Link ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2020-03-01T17:26:25Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "3DCPzmV3y56jw-Fn0JRsD9OezXI",
     "id": {
       "kind": "youtube#video",
@@ -579,6 +647,40 @@
   },
   {
     "kind": "youtube#searchResult",
+    "etag": "Cd5Eijb_RBPABRN4MFX71M_cCuQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zX6Xnr-Qgmc"
+    },
+    "snippet": {
+      "publishedAt": "2020-03-01T17:26:25Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Kimia kelas XI - Hidrolisis Garam",
+      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Link ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zX6Xnr-Qgmc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BIG Course",
+      "liveBroadcastContent": "none",
+      "publishTime": "2020-03-01T17:26:25Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
     "etag": "NZ7g6iyVuog5cCwHp_r2KRD-BR0",
     "id": {
       "kind": "youtube#video",
@@ -609,40 +711,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2019-11-07T06:00:00Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "kfhT2p2fcUeGgZ_hWKwxDh6oRfM",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "X2pnRAsckGI"
-    },
-    "snippet": {
-      "publishedAt": "2021-04-21T01:00:05Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Trigonometri dasar part 6 - Latihan soal Segitiga dalam Jurusan Tiga Angka",
-      "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-04-21T01:00:05Z"
     }
   },
   {
@@ -715,70 +783,36 @@
   },
   {
     "kind": "youtube#searchResult",
-    "etag": "ySNhKuD3pfhzKmpwP4Foz8WfQyc",
+    "etag": "eYBhl3IfUVcKDXlMsLyL3dW2xn0",
     "id": {
       "kind": "youtube#video",
-      "videoId": "Jn2DP_mtITU"
+      "videoId": "X2pnRAsckGI"
     },
     "snippet": {
-      "publishedAt": "2025-03-09T12:57:16Z",
+      "publishedAt": "2021-04-21T01:00:05Z",
       "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Trigonometri dasar part 13 - Pembuktian identitas",
+      "title": "Matematika kelas X - Trigonometri dasar part 6 - Latihan soal Segitiga dalam Jurusan Tiga Angka",
       "description": "Gabung Membership BIG Course di link dibawah ini https://www.youtube.com/channel/UC-a0gsRujUDEdro2k3AGaCg/join Di ...",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/default.jpg",
+          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Jn2DP_mtITU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X2pnRAsckGI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       },
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
-      "publishTime": "2025-03-09T12:57:16Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "DytcBtcwmdTf2qSX-FsSJcMSL4M",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "kfkJRI1N-MQ"
-    },
-    "snippet": {
-      "publishedAt": "2021-01-04T04:36:33Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Matematika kelas X - Logaritma part 1",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kfkJRI1N-MQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kfkJRI1N-MQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kfkJRI1N-MQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2021-01-04T04:36:33Z"
+      "publishTime": "2021-04-21T01:00:05Z"
     }
   },
   {
@@ -813,40 +847,6 @@
       "channelTitle": "BIG Course",
       "liveBroadcastContent": "none",
       "publishTime": "2020-02-04T12:00:20Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
-    "etag": "nqMRkMc0vl3mLUTPASu_DTFrJwI",
-    "id": {
-      "kind": "youtube#video",
-      "videoId": "xhxCZs21DXM"
-    },
-    "snippet": {
-      "publishedAt": "2019-12-10T09:43:18Z",
-      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
-      "title": "Kimia kelas X - Tata Nama Senyawa Kovalen dan Senyawa ion(Garam) serta Asam - Part 1",
-      "description": "Di dalam video ini, ko Ben akan membahas materi dan menjelaskan tentang soal soal yang biasanya diberikan dalam Kimia bab ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xhxCZs21DXM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "BIG Course",
-      "liveBroadcastContent": "none",
-      "publishTime": "2019-12-10T09:43:18Z"
     }
   }
 ]
