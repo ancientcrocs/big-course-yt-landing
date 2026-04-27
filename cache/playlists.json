@@ -1,6 +1,52 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "LGr02XZd_WumLe92pi61tqh7hns",
+    "id": "PLmMOM47Txz7vboHNdkCZDIPYy1iwNosb7",
+    "snippet": {
+      "publishedAt": "2026-04-26T09:35:51.730384Z",
+      "channelId": "UC-a0gsRujUDEdro2k3AGaCg",
+      "title": "Matematika Kalkulus",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kX0-1F8p1n8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kX0-1F8p1n8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kX0-1F8p1n8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kX0-1F8p1n8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kX0-1F8p1n8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BIG Course",
+      "localized": {
+        "title": "Matematika Kalkulus",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 2
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "2SO3jxhG5b_StXy4arUc30bl9DM",
     "id": "PLmMOM47Txz7t57gtOJoXslvkbmA9BY9j8",
     "snippet": {
@@ -2138,7 +2184,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "KXHP5aOLlKVmdKfNQ_GkJQmHF8w",
+    "etag": "Uf45uZeo5nXmd39sve7h1U-9jr8",
     "id": "PLmMOM47Txz7vu7cfpy16SN2R2nQ30_YGT",
     "snippet": {
       "publishedAt": "2023-07-20T05:17:33.715068Z",
@@ -2179,7 +2225,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 7
+      "itemCount": 8
     }
   },
   {
@@ -2230,7 +2276,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "kl05yetWJb_xlx2giCVSp6izotg",
+    "etag": "uclMFNwbDTKfADqKlq2h1EKptA8",
     "id": "PLmMOM47Txz7tXSwf3NaHxAvwdqIbdnCB_",
     "snippet": {
       "publishedAt": "2023-07-20T05:01:18.008846Z",
@@ -2271,7 +2317,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3
+      "itemCount": 4
     }
   },
   {
@@ -2736,7 +2782,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "HVbjSchHOUqglIEH60H-qLd3N2A",
+    "etag": "ZR3DIKvYmWhUYbuHxWwEwROhrJ4",
     "id": "PLmMOM47Txz7tVT_Nr8Z8C4QY-eGYoHOiF",
     "snippet": {
       "publishedAt": "2023-05-06T07:00:18.116634Z",
@@ -2777,7 +2823,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 14
+      "itemCount": 15
     }
   },
   {
